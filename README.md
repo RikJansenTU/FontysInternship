@@ -18,7 +18,7 @@ Assignment from TDE, details of assigment, Moscow
 
 ### Research into Transcription Models
 
-[Research Report]
+[Research Report](/Project_1/AI_Model_Research.md)
 
 ### Prototyping and Implementation
 
