@@ -10,6 +10,7 @@ Accuracy isn't the only important factor however: speed is also of the essence. 
 
 Since every AI model has different implementation requirements, it wasn't feasible to set up a prototype of every available speech recognition model. Instead I looked at available benchmarks, and based on those decided to go with OpenAI's Whisper, which outperforms most other speech recognition models available, as well as being open-source.
 
+![Whisper Test Results](https://user-images.githubusercontent.com/9715331/227275260-4c2383b9-2eb2-4dbc-9715-469d377e0523.png)
 
 Once I landed on Whisper, I could set up a functioning prototype and start testing. There has been a range of Whisper models released, with the smaller ones taking less time to process audio, but becoming more inaccurate. I wanted to strike the right balance between accuracy and speed, so using a recording of Martin Luther King's 'I have a dream' speech I tested out every Whisper model available.
 
