@@ -12,23 +12,23 @@ AI is a quickly evolving field of computer science, which is why TDE is very int
 
 ## Learning Outcomes
 
-Learning outcome 1:
-[Professional duties] You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
+**Learning outcome 1: Professional Duties**
+> You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
-Learning outcome 2:
-[Situation-orientation] You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
+**Learning outcome 2: Situation-orientation**
+> You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
-Learning outcome 3:
-[Future-Oriented Organisation] You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
+**Learning outcome 3 Future-Oriented Organisation** 
+> You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
-Learning outcome 4:
-[Investigative Problem Solving] You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+**Learning outcome 4: Investigative Problem Solving**
+> You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
-Learning outcome 5:
-[Personal Leadership] You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+**Learning outcome 5: Personal Leadership** 
+> You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
-Learning outcome 6:
-[Targeted Interaction] You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
+**Learning outcome 6: Targeted Interaction**
+> You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
 ## Internship Overview
 
@@ -51,12 +51,6 @@ More info on my work and a reflection can be found [here](Project_1/Overview.md)
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
 More info on this project can be found [here](Project_2/Overview.md)
-
-### Exploration and Planning
-
-Based on feedback, I tried to create a more extensive planning for this project, which can be found [here](Project_2/Planning.md).
-
-I tried to involve the other TDE employees in the process from the get-go, setting up a meeting with them to discuss possibilities and opportunities for the project, as well as its scope. 
   
 ## Final
 
