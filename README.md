@@ -44,13 +44,15 @@ After these two weeks, I had also landed on a general theme for my assignment; r
 
 I made an application that automatically transcribes and summarizes podcasts. It's intended to be used by the journalists of RacingNews365, a Formula 1 news site, who get a lot of their news from podcasts. This tool could save them a lot of time, by extracting just the most pertinent info, and indicating whether or not the podcast is worth listening to. Me and my TDE coordinator decided on this project as a good introduction to using generative AI models, as audio and text is a relatively simple subject within the field.
 
-More info on my work and a reflection can be found [here](Project_1/Overview.md)
+More info on my work and a reflection can be found [here](Project_1/Overview.md).
+
+[Application Screenshot](Project_1/Images/Screenshot1.png)
 
 ### Project 2: Sport Icons
 
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
-More info on this project can be found [here](Project_2/Overview.md)
+More info on this project can be found [here](Project_2/Overview.md).
   
 ## Final
 
