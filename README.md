@@ -3,6 +3,8 @@ Rik Jansen
 
 Updated 23-3-23
 
+![afbeelding](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
+
 ## First Weeks
 
 The first two weeks were spent getting to know the company, and getting to grips with my assignment. Early on, me and my coordinator at TDE decided that we would split the internship into four seperate projects, all focused on a different theme and subject within the field of generative AI. This way, I could explore more different avenues, as well as giving me the opportunity to swerve in direction if an exciting new direction suddenly opened up. Considering how fast the field of AI is moving nowadays, this is a very real possibility, and halfway through the internship TDE might suddenly think of something interesting I could be doing.
@@ -25,7 +27,7 @@ For this first project, I wanted to implement the AI models myself, to obtain a 
 
 I quickly set up some simple prototypes that allowed me to play around with different transcription and summarization models, and get some experience with their implementation. These same prototypes were used to run some basic tests on the models, to pick the one that best suited my needs. Most of the development time of this project was spent on the backend, implementing the models and getting them to work together, as well as working on language options and a simple UI.
 
-[Application Screenshot](Project_1/Images/Screenshot1.png)
+![Application Screenshot](Project_1/Images/Screenshot1.png)
 _Screenshot of the application_
 
 The source code, as well as the Jupyter Notebooks I used for early testing, of the project can be found [here](https://github.com/RikJansenTU/PodcastSummarizer).
@@ -42,7 +44,7 @@ Unfortunately, I didn't have time to implement a feature for looking up timestam
 
 I want to offer the tool I created to RacingNews, and hopefully have them use it for a few weeks, after which I can hold some short interviews to get their throughts on it. It'll be interesting to see if they make use of it, and to hear their feedback.
 
-[Summary](Project_1/Images/Screenshot2.png)
+![Summary](Project_1/Images/Screenshot2.png)
 _First part of a summary of a Formula 1 podcast_
 
 ### Reflection and Feedback
@@ -58,30 +60,9 @@ I think this struggle with involving others is partially due to the different wo
 
 ### Exploration and Planning
 
-Based on feedback, I tried to set up a more elaborate planning for this prokect, which was as follows:
+Based on feedback, I tried to create a more extensive planning for this project, which can be found [here](Project_2/Planning.md).
 
-*Week 1 (20-3 t/m 24-3): reflectie project 1, afbakening, planning, en eerste design project 2.*
-Reflectie project 1, eerste opzet portfolio. 1 dag
-Eerste meeting en planning project 2. Maandag 27-3
-Onderzoek naar opties en technologie project 2. 1 dag.
-Tweede meeting voor bespreking planning project 2. Vrijdag 31-1.
-Bijwerken weekupdate, portfolio, projectplan voor project 2. 1 dag.
-Eerste design voor frontend in Figma. 1 dag.
-*Week 2: (27-3 t/,m 31-3): Eerste prototype, feedback*
-Een eerste prototype opzetten, dat alleen stem-simulatie bevat. 2 dagen
-Feedback-meeting prototype. Woensdag 29-3
-Tweede prototype met stem-simulatie. 1 dag.
-Verfijnen design frontend gebaseerd op eerste feedback. 1 dag.
-Onderzoek naar gezicht-simulatie. 1 dag.
-*Week 3: (3-4 t/m 7-4): Iteratie*
-Tweede prototype: eerste implementatie gezicht-simulatie. 3-4 dagen.
-Feedback-meeting prototype 2.
-Eerste implementatie frontend gebaseerd op design. 1 dag.
-Feedback-meeting frontend.
-*Week 4: (11-4 t/m 14-4): Afronding*
-Laatste prototype, puntjes op de i zetten. 2-3 dagen.
-Eindrapportage schrijven, resultaten verzamelen. 1 dag.
-Demo en presentatie aan TDE. 1 dag.
+I tried to involve the other TDE employees in the process from the get-go, setting up a meeting with them to discuss possibilities and opportunities for the project, as well as its scope. 
   
 ## Final
 
