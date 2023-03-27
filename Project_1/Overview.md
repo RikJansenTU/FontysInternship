@@ -2,8 +2,27 @@
 
 An application that automatically transcribes and summarizes a podcast, intended for use by journalists who get a significant portion of their news from those podcasts.
 
+### Research Questions
+Below are the research questions I formulated for this project, and the methods I used to answer them.
 
-## Exploration and Planning
+**- How can I make an application that fulfills the needs of the employees of RacingNews365**
+
+Interviews: RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.
+
+**- How can I use AI models to transcribe a large audio file with as much accuracy as possible?**
+
+Available product analysis / community research: A lot of research has already been done into this aspect of AI, so I'll have many tools I can use and build upon, many of which are open source. I had to determine which existing tool best suited my needs and how I could implement those tools.
+
+Prototyping: I set up a series of simple prototypes that I could use to test different models and compare them.
+
+**- How can I use AI models to summarize a large body of text with as much accuracy as possible?**
+
+Available product analysis / community research: This is also an area of AI with a lot of solutions already available, so once again I'll have to research my options and determine the right one for me.
+
+Prototyping: I once again used prototypes to be able to compare different implementations for myself.
+
+
+### Exploration and Planning
 
 From the start, I had a pretty clear view of my assignment, and what my end result would be used for. TDE had already discussed using tools like these with RacingNews365, and could tell me what the requirements were. I set up some [requirements](/Project_1/Requirements.md), made a first setup of the project plan, and started work.
 
