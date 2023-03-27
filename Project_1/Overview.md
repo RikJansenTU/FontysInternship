@@ -2,7 +2,7 @@
 
 An application that automatically transcribes and summarizes a podcast, intended for use by journalists who get a significant portion of their news from those podcasts.
 
-### Research Questions
+## Research Questions
 Below are the research questions I formulated for this project, and the methods I used to answer them.
 
 **- How can I make an application that fulfills the needs of the employees of RacingNews365**
@@ -21,6 +21,7 @@ Available product analysis / community research: This is also an area of AI with
 
 Prototyping: I once again used prototypes to be able to compare different implementations for myself.
 
+## Project Overview
 
 ### Exploration and Planning
 
