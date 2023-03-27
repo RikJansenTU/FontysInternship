@@ -46,7 +46,7 @@ I made an application that automatically transcribes and summarizes podcasts. It
 
 More info on my work and a reflection can be found [here](Project_1/Overview.md).
 
-[Application Screenshot](Project_1/Images/Screenshot1.png)
+![Application Screenshot](Project_1/Images/Screenshot1.png)
 
 ### Project 2: Sport Icons
 
