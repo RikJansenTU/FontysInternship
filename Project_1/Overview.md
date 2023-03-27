@@ -35,7 +35,7 @@ For this first project, I wanted to implement the AI models myself, to obtain a 
 
 I quickly set up some simple prototypes that allowed me to play around with different transcription and summarization models, and get some experience with their implementation. These same prototypes were used to run some basic tests on the models, to pick the one that best suited my needs. Most of the development time of this project was spent on the backend, implementing the models and getting them to work together, as well as working on language options and a simple UI.
 
-![Application Screenshot](Project_1/Images/Screenshot1.png)
+![Application Screenshot](Images/Screenshot1.png)
 _Screenshot of the application_
 
 The source code, as well as the Jupyter Notebooks I used for early testing, of the project can be found [here](https://github.com/RikJansenTU/PodcastSummarizer).
@@ -52,7 +52,7 @@ Unfortunately, I didn't have time to implement a feature for looking up timestam
 
 I want to offer the tool I created to RacingNews, and hopefully have them use it for a few weeks, after which I can hold some short interviews to get their throughts on it. It'll be interesting to see if they make use of it, and to hear their feedback.
 
-![Summary](Project_1/Images/Screenshot2.png)
+![Summary](Images/Screenshot2.png)
 _First part of a summary of a Formula 1 podcast_
 
 ### Reflection and Feedback
