@@ -52,8 +52,30 @@ I think this struggle with involving others is partially due to the different wo
 
 ### Exploration and Planning
 
-[Project 2 planning] - coming friday
-  More extensive planning, with dates etc, deliverables to be delivered
+Based on feedback, I tried to set up a more elaborate planning for this prokect, which was as follows:
+
+*Week 1 (20-3 t/m 24-3): reflectie project 1, afbakening, planning, en eerste design project 2.*
+Reflectie project 1, eerste opzet portfolio. 1 dag
+Eerste meeting en planning project 2. Maandag 27-3
+Onderzoek naar opties en technologie project 2. 1 dag.
+Tweede meeting voor bespreking planning project 2. Vrijdag 31-1.
+Bijwerken weekupdate, portfolio, projectplan voor project 2. 1 dag.
+Eerste design voor frontend in Figma. 1 dag.
+*Week 2: (27-3 t/,m 31-3): Eerste prototype, feedback*
+Een eerste prototype opzetten, dat alleen stem-simulatie bevat. 2 dagen
+Feedback-meeting prototype. Woensdag 29-3
+Tweede prototype met stem-simulatie. 1 dag.
+Verfijnen design frontend gebaseerd op eerste feedback. 1 dag.
+Onderzoek naar gezicht-simulatie. 1 dag.
+*Week 3: (3-4 t/m 7-4): Iteratie*
+Tweede prototype: eerste implementatie gezicht-simulatie. 3-4 dagen.
+Feedback-meeting prototype 2.
+Eerste implementatie frontend gebaseerd op design. 1 dag.
+Feedback-meeting frontend.
+*Week 4: (11-4 t/m 14-4): Afronding*
+Laatste prototype, puntjes op de i zetten. 2-3 dagen.
+Eindrapportage schrijven, resultaten verzamelen. 1 dag.
+Demo en presentatie aan TDE. 1 dag.
   
 ## Final
 
