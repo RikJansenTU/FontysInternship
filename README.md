@@ -1,7 +1,7 @@
 # TDE Internship Portfolio
 Rik Jansen
 
-Updated 23-3-23
+Updated 3-4-23
 
 ![afbeelding](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
