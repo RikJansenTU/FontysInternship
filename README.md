@@ -39,14 +39,21 @@ Working within a field as young as this meant a lot of research was required, in
 **Learning outcome 5: Personal Leadership** 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
-TDE gave me a lot of freedom to manage m
+TDE gave me complete freedom to manage and execute my projects as I saw fit, which was both exciting and a bit daunting. I tried to make use of the opportunity to get creative with their execution, trying to come up with interesting or innovative ways to execute the assignments I got, as well as coming up with novel concepts for applications of AI of my own.
+
+I tend to focus a bit too much on the technological side of my learning, but while there were definitely interesting challenges to be found there, I quickly realised that there were much greater gains to be head when it came to my skills in organisation and communication. I think I especially struggled with these during the first project, but I tried to improve in both areas for later projecs. For communication, see the learning outcome below.
+
+As for my organizational skills, I think there was a lot that could be gained from more meticulous planning and trying to organise the projects in a more structured manner, so I tried to focus on those for later projects, which is hopefully reflected in the project planning document.
+
 Freedom to do whjat I wamnt withj thje prohject
 Skills to be buyilt uyp whjemn it comnes to comnmnuymnicatiomn (see below), plamnmnimng, workimng as a part of a teamn, tried to focuys omn thjat
 
 **Learning outcome 6: Targeted Interaction**
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
-Struggled at first, better later
+Like I mentioned above, communication isn't one of my strong suits - I usually work in a very solitary fashion, finding it difficult to ask for feedback or share what I'm doing. This was very apparent during project 1, where I delivered a final product that functioned quite well, but that didn't quite live up to the potential it had because I didn't ask for feedback while I was working on it. Discussing my progress with stakeholders and colleagues likely would have resulted in a more well rounded application that better fit the needs of the stakeholders.
+
+Starting with project 2, I tried to actively discuss what I was doing, especially with stakeholders. I tried to not only show off my progress, but also discuss what I was planning and ways I could implement the brief. I think this resulted in better and more well-rounded final products. It also ensured that stakeholders and my colleagues at TDE were better informed and more involved with what I was working on, which had the added benefit of better integrating me in the team.
 
 ## Internship Overview
 
