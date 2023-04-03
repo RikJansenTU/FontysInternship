@@ -18,17 +18,27 @@ AI is a quickly evolving field of computer science, which is why TDE is very int
 **Learning outcome 2: Situation-orientation**
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
+I used my experience with object-oriented and backend programming to set up an application for each project, which will eventually be hosted on the TDE domain. These applications can then be used by TDE to showcase their ability to work with AI to (potential) customers, and demonstrate that they're able to operate at the cutting edge of technology, something they find very important as a company.
+
+I worked on my projects the same way a developer at TDE would, for example participating in the daily standups.
+
 **Learning outcome 3 Future-Oriented Organisation** 
 > You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
+I had final responsibility for my projects, which meant I was not only writing the code, but was also in charge of the ideation and planning. Especially the latter is something I have always struggled with, which meant the first project was pretty chaotic. For the second, I tried to do some more detailed planning, outlining what I wanted to do on a weekly basis. Doing this still isn't something I enjoy, and I doubt it ever will be, but it did give me a better grasp of my overall progress and kept me on track.
+
 **Learning outcome 4: Investigative Problem Solving**
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
+
+The nature of my assignment and the way it's been split up means I got the chance to approach the subject of generative AI from a few different angles, allowing me to investigate different applications for TDE. 
 
 **Learning outcome 5: Personal Leadership** 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
 **Learning outcome 6: Targeted Interaction**
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
+
+Struggled at first, better later
 
 ## Internship Overview
 
