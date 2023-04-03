@@ -3,6 +3,8 @@ TDE will be hosting a Web3 showcase, where they are inviting several high-profil
 
 ## Exploration and Planning
 
-Based on feedback, I tried to create a more extensive planning for this project, which can be found here.
+Based on feedback, I tried to create a more extensive planning for this project, which can be found [here](Planning.md).
 
 I tried to involve the other TDE employees in the process from the get-go, setting up a meeting with them to discuss possibilities and opportunities for the project, as well as its scope.
+
+Ethics of generating videos of celebrities
