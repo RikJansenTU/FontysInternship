@@ -15,25 +15,33 @@ AI is a quickly evolving field of computer science, which is why TDE is very int
 **Learning outcome 1: Professional Duties**
 > You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
+I made several applications, making use of object oriented programming languages and APIs, as well as implementing more complex technologies I had never worked with before, like custom AI models. Since the resulting applications were meant to either be showcases for TDE or to be used by their customers, I also paid more attention than I usually do to the frontend, trying to ensure the tools had a clean and easy-to-use interface.
+
 **Learning outcome 2: Situation-orientation**
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
 I used my experience with object-oriented and backend programming to set up an application for each project, which will eventually be hosted on the TDE domain. These applications can then be used by TDE to showcase their ability to work with AI to (potential) customers, and demonstrate that they're able to operate at the cutting edge of technology, something they find very important as a company.
 
-I worked on my projects the same way a developer at TDE would, for example participating in the daily standups.
+I worked on my projects the same way a developer at TDE would, for example participating in the daily standups and presenting my finished product to my colleagues. I interacted with different stakeholders, both within the company and outside of it, for different projects, pitching my ideas and getting their feedback at various stages.
 
-**Learning outcome 3 Future-Oriented Organisation** 
+**Learning outcome 3: Future-Oriented Organisation** 
 > You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
-I had final responsibility for my projects, which meant I was not only writing the code, but was also in charge of the ideation and planning. Especially the latter is something I have always struggled with, which meant the first project was pretty chaotic. For the second, I tried to do some more detailed planning, outlining what I wanted to do on a weekly basis. Doing this still isn't something I enjoy, and I doubt it ever will be, but it did give me a better grasp of my overall progress and kept me on track.
+I had final responsibility for my projects, which meant I was not only writing the code, but was also in charge of the ideation and planning. Especially the latter is something I have always struggled with, which meant the first project was pretty chaotic. For the second, I tried to do some more detailed planning, outlining what I wanted to do on a weekly basis. Doing this still isn't something I enjoy, and I doubt it ever will be, but it did give me a better grasp of my overall progress and kept me on track. 
 
 **Learning outcome 4: Investigative Problem Solving**
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
-The nature of my assignment and the way it's been split up means I got the chance to approach the subject of generative AI from a few different angles, allowing me to investigate different applications for TDE. 
+The nature of my assignment and the way it's been split up means I got the chance to approach the subject of generative AI from a few different angles, allowing me to investigate different opportunities for TDE. 
+
+Working within a field as young as this meant a lot of research was required, into technology, existing products, and potential applications. I did a lot of literature study, analyzed existing products, and made as many prototypes as I could to be able to explore the technology. Especially the prototypes proved useful, considering a lot of things turned out to be less, or more, complex than expected, and having a testing framework set up allowed me to quickly pivot. Based on my results, I could make informed decisions (alongside the stakeholders at TDE) about how my projects could best be executed.
 
 **Learning outcome 5: Personal Leadership** 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
+
+TDE gave me a lot of freedom to manage m
+Freedom to do whjat I wamnt withj thje prohject
+Skills to be buyilt uyp whjemn it comnes to comnmnuymnicatiomn (see below), plamnmnimng, workimng as a part of a teamn, tried to focuys omn thjat
 
 **Learning outcome 6: Targeted Interaction**
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
