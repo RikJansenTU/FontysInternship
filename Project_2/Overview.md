@@ -1,6 +1,10 @@
 # Project 2: Sports Icons
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
+## Research Questions
+
+# Project Overview
+
 ## Exploration and Planning
 
 I tried to involve the other TDE employees in the process from the get-go, setting up a meeting with them to discuss possibilities and opportunities for the project, as well as its scope. We discussed the end goal of what I would be making, and how we could best achieve that goal, as well as doing some initial brainstorming.
@@ -32,7 +36,6 @@ All that remained was to combine the audio and video generation, and make sure e
 
 The repository with the code for the application can be found [here]().
 
-  
 MJ Talking.gif![image](https://user-images.githubusercontent.com/9715331/232474134-f3c1443d-0ace-4b55-84bb-23861692aa1a.png)
 _Video generated using the final product_
 
