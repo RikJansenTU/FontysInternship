@@ -39,7 +39,7 @@ After that, I got started on the video aspect; this was more difficult, both due
 
 All that remained was to combine the audio and video generation, and make sure everything was functioning correctly. Some last-minute changes had to be made because one of the endpoints I was using stopped working, but I managed Considering the tool was supposed to be used by TDE, I wanted to make the code clean and easy to adjust, as well as facilitating the addition of more athletes in the future, even without my assistance. 
 
-The repository with the code for the application can be found [here]().
+The repository with the code for the application can be found [here](https://github.com/RikJansenTU/SportIcons).
 
 ![MJ Talking.gif](Images/MJ_Talking.gif)
 
@@ -47,16 +47,14 @@ _Video generated using the final product_
 
 ## Reflection
 
-Making use of all the apis vs using models, 
-Tried to ask for more feedback during the process
-  as a result the app fit better to brief and what TDE was looking for
-  more focused
-Better application due to better communication
+The development of this project was quite different from that of the the previous one: it didn't present as much of a technical challenge because I was making use of APIs, so the focus was more on combining existing tools into something new, and creating an app that was easy to use and corresponded to TDE's brief. To achieve this, I gathered much more feedback, showing my progress several times a week, and discussing the direction I was going and what could be improved.
 
-Planning helps, but too restrictive and little space for unexpected circuimstances - kanban board next time? 
-  For example with unforseen bugs etc, like the malfunctioning endpoint
-  No time for frontend -> later
-    Designs?
+This helped me refine and improve my prototypes, and helped me come up with new approaches to the challenges I faced, for example the usage of Midjourney to circuimvent D-ID's filters. It also made the project more focused; instead of creating requirements beforehand and getting to work on my own, the more frequent discussion of my progress ensured I had a better idea of what TDE was looking for, and allowed me to make changes accordingly.
+
+The more detailed planning I made also helped me stay organized and on track, and made sure I always knew what I was working on or had to get started with. I do think the way I set up the planning was a bit too restrictive: it would've been nice to have some space to account for unforseen delays, like when one of the API endpoints I was using suddenly stopped working and I had to rewrite part of my application.
+For my next project I might use something like a Kanban board, to still be able to efficiently manage my tasks, but be a bit more flexible overall.
+
+While I'm quite happy with my end result, I unfortunately didn't have much as much time as I would have liked to work on the frontend, for example giving the tool TDE color and branding. I have scheduled some dedicated time to work on the frontend of all my finished applications towards the end of the internship, because I do think the way they look is important in their function as an AI showcase for TDE.
 
 ## Ethical Considerations
 
