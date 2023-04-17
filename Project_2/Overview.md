@@ -17,7 +17,21 @@ Video generation proved more difficult; while there are a variety of different t
 This circuimvents the limitations as well as adding another layer of AI, which serves the projects goal of showing off the technology's capabilities.
 For generating the talking head video based on the Midjourney image I decided to use [D-ID](https://www.d-id.com), because it netted the best results out of every tool I experimented with.
 
-# Ethical Considerations
+## Development
+
+Focus on MJ
+Making use of all the apis, experimenting to see what gives best results
+Tried to ask for more feedback during the process
+  as a result the app fit better to brief and what TDE was looking for
+
+## Reflection
+
+No time for frontend -> later
+  Designs?
+Better application due to better communication
+Planning helps, but too restrictive and little space for unexpected circuimstances - kanban board next time?
+
+## Ethical Considerations
 
 Ethics of generating videos of celebrities
 watermnark
