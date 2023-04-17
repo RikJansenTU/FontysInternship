@@ -17,21 +17,41 @@ Video generation proved more difficult; while there are a variety of different t
 This circuimvents the limitations as well as adding another layer of AI, which serves the projects goal of showing off the technology's capabilities.
 For generating the talking head video based on the Midjourney image I decided to use [D-ID](https://www.d-id.com), because it netted the best results out of every tool I experimented with.
 
+Michael Jordan Test .gif![image](https://user-images.githubusercontent.com/9715331/232474418-57b2373b-7ecf-41b7-9321-34cc6345911b.png)
+_An early experiment for generating video of Michael Jordan_
+
 ## Development
+
+I wanted to create a solid base for my application, which I could iteratively improve upon, as well as use to experiment with. I chose one athlete to focus on; Michael Jordan. If I could get the tool working for one person, it would be easy to add others. 
+
+I started with the voice generation, which was fairly easy to get working, and I was quickly able to get great results. I also used this first prototype to start working on the UI, discussing potential changes with colleagues, which resulted in a more reactive and stripped down UI for the second prototype.
+
+After that, I got started on the video aspect; this was more difficult, both due to the aforementioned restrictions placed on generating videos based on celebrities and the complexity of the API I was using. We experimented with generating portraits using Midjourney, getting as good of a likeness as possible, and used the best results to generate the video.
+
+All that remained was to combine the audio and video generation, and make sure everything was functioning correctly. Some last-minute changes had to be made because one of the endpoints I was using stopped working, but I managed Considering the tool was supposed to be used by TDE, I wanted to make the code clean and easy to adjust, as well as facilitating the addition of more athletes in the future, even without my assistance. 
+
+The repository with the code for the application can be found [here]().
+
+  
+MJ Talking.gif![image](https://user-images.githubusercontent.com/9715331/232474134-f3c1443d-0ace-4b55-84bb-23861692aa1a.png)
+_Video generated using the final product_
+
+## Reflection
 
 Focus on MJ
 Making use of all the apis, experimenting to see what gives best results
 Tried to ask for more feedback during the process
   as a result the app fit better to brief and what TDE was looking for
-
-## Reflection
-
+  more focused, 
+  
 No time for frontend -> later
   Designs?
 Better application due to better communication
-Planning helps, but too restrictive and little space for unexpected circuimstances - kanban board next time?
+Planning helps, but too restrictive and little space for unexpected circuimstances - kanban board next time? 
+  For example with unforseen bugs etc, like the malfunctioning endpoint
 
 ## Ethical Considerations
 
 Ethics of generating videos of celebrities
+  Video of zelensky surrendering to putin
 watermnark
