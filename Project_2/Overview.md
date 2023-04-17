@@ -36,7 +36,7 @@ All that remained was to combine the audio and video generation, and make sure e
 
 The repository with the code for the application can be found [here]().
 
-MJ Talking.gif![image](https://user-images.githubusercontent.com/9715331/232474134-f3c1443d-0ace-4b55-84bb-23861692aa1a.png)
+![MJ Talking.gif!](/Images/MJ_Talking.gif)
 _Video generated using the final product_
 
 ## Reflection
