@@ -1,19 +1,19 @@
 # Project 1: Podcast Summarizer
-An application that automatically transcribes and summarizes a podcast, intended for use by journalists who get a significant portion of their news from those podcasts.
+An application that automatically transcribes and summarizes a podcast, intended for use by journalists who get a significant portion of their news from those podcasts - specifically intended for RacingNews365, the largest Formula 1 news site in the Netherlands.
 
 ## Research Questions
-Below are the research questions I formulated specifically for this project, and the methods I used to answer them.
+Below are the research questions I adressed specifically with this project, and the methods I used to answer them.
 
-- **How can I make an application that fulfills the needs of the employees of RacingNews365?**  
-_Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.
+- **How can I use generative AI to increase fan engagement?**  
+While this tool isn't meant to be used by fans directly, it does benefit them in indirect ways. Using the summarizer, journalists can publish news faster, which means fans will be aware of what's happening sooner. Hopefully, the tool can also free up some of the journalists' time, allowing them to focus on creating more or higher quality content, improving the experience of fans using the site.
 
-- **How can I use AI models to transcribe a large audio file with as much accuracy as possible?**  
-_Available product analysis / community research:_ A lot of research has already been done into this aspect of AI, so I'll have many tools I can use and build upon, many of which are open source. I had to determine which existing tool best suited my needs and how I could implement those tools.  
+- **What are the needs of TDE's various customers, and how can I fulfill those?**  
+_Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.  
+There are also client leads at TDE who are aware of the needs of not only RacingNews365 but also other clients, who I could discuss implementation with.
+
+- **What different types of generative AI exist, and how can they be used in innovative new ways?**  
+_Available product analysis / community research:_ A lot of research has already been done into this aspect of AI, so I'll have many tools I can use and build upon, many of which are open source. I had to determine which existing tools best suited my needs and how they could be implemented.  
 _Prototyping:_ I set up a series of simple prototypes that I could use to test different models and compare them.
-
-- **How can I use AI models to summarize a large body of text with as much accuracy as possible?**  
-_Available product analysis / community research:_ This is also an area of AI with a lot of solutions already available, so once again I'll have to research my options and determine the right one for me.  
-_Prototyping:_ I once again used prototypes to be able to compare different implementations for myself.
 
 ## Process Overview
 
@@ -41,6 +41,8 @@ I spent a lot of time working on the backend, and the frontend and UI of the pro
 Unfortunately, I didn't have time to implement a feature for looking up timestamps in the podcast for certain parts of the summary. While I do have a good idea of how I could implement this, I ran out of time, and decided that this feature wasn't as important as getting the base application running well.
 
 I want to offer the tool I created to RacingNews, and hopefully have them use it for a few weeks, after which I can hold some short interviews to get their throughts on it. It'll be interesting to see if they make use of it, and to hear their feedback.
+
+In the weeks after I made the tool, it has seen some unexpected internal use within TDE - some of my colleagues needed to transcribe the voiceover for a video they were working on, and used the transcription aspect of the tool I made, saving a lot of time.
 
 ![Summary](Images/Screenshot2.png)  
 _First part of a summary of a Formula 1 podcast_
