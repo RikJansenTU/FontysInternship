@@ -17,17 +17,20 @@ This internship is a great opportunity for me to investigate the current state o
 I want to explore the different uses of generative AI, preferably casting as wide a net as possible to be able to investigate the different ways TDE might make use of the technology. This could be a tool that the company uses internally to create things or increase productivity, or something that they use to sell their services to potential customers.
 At the end of my internship, I will have showcased different applications of generative AI, and I'll be able to inform TDE on the best approaches to take when making use of the technology.
 
-**Research Questions**  
-- _How can I use generative AI to increase fan engagement?_  
-This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
-- _What ethical considerations have to be taken into account when working with AI?_
-
-    How can it benefit fans  
-    How can it be used to make things that benefit fans  
-    
 **Approach**    
 To be able to investigate as many different AI-related subjects as possible I decided, along with my mentor at TDE, to split the internship into three different projects. This way, I can explore a few different themes, applications, and types of technology so I get a good general impression of the state of generative AI and how it can be used to serve TDE.  
 Another advantage of setting up the internship this way is that it offers a certain amount of flexibility. Developments in the field of AI are incredibly rapid, which means it's very much possible that some new and groundbreaking piece of technology gets released halfway through the internship. Having a few different projects planned, the details of the later ones not yet set in stone, allows me a certain degree of flexibility to potentially make use of new AI developments.
+
+**Research Questions**  
+The following are the most important questions I want to answer over the course of the internship. The individual projects might have other, more specific, research questions attached; those will be listed in their respective chapters.  
+- _How can I use generative AI to increase fan engagement?_  
+This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
+- _What different types of generative AI exist, and how can they be used in innovative new ways?_
+
+- _What are the needs of TDE's various customers, and how can I fulfill those?_
+- _Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?_
+- _What ethical considerations have to be taken into account when working with AI?_
+
 
 ## Progress and Results - Overview
 ### First Weeks
