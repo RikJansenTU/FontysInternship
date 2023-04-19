@@ -1,17 +1,53 @@
 # TDE Internship Portfolio
 Rik Jansen
 
-Updated 3-4-23
+Updated 19-4-23
 
-![afbeelding](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
+![TDE Logo](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
 ## The Internship
+
+Description of the assignment, the problem or opportunity that has lead to the assignment, the goals and the context of the assignment
+-introduction
+  blahblah ai, rapid development and innovation, will change the way things are done
+-problem/opportunity
+  AI has a lot of potential, TDE wants to be at the forefront of new techology, to create better products and to be able to offer their customers more
+-goal
+  Explore different aspects of ai and what they can do for TDE and the people using their products - be able to advice TDE on its potential uses
+- research questions
+  'How can I use generative AI to increase fan engagement?'
+    How can it benefit fans
+    How can it be used to make things that benefit fans
+- approach
+  Create different projects exploring different aspects of ai
 
 The central research question I have tried to answer for TDE is 'How can I use generative AI to increase fan engagement?'. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
 AI is a quickly evolving field of computer science, which is why TDE is very interested in exploring what opportunities it offers them. This assignment is a great opportunity to create multiple experimental applications that can show off the power of AI to potential customers.
 
-## Learning Outcomes
+## Progress and Results - Overview
+### First Weeks
+The first two weeks were spent getting to know the company, and getting to grips with my assignment. Early on, me and my coordinator at TDE decided that we would split the internship into four seperate projects, all focused on a different theme and subject within the field of generative AI. This way, I could explore more different avenues, as well as giving me the opportunity to swerve in direction if an exciting new direction suddenly opened up. Considering how fast the field of AI is moving nowadays, this is a very real possibility, and halfway through the internship TDE might suddenly think of something interesting I could be doing.
 
+I tried to get a good idea of the current state of AI, and what the possibilities were. Based on this research, I outlined several concepts and themes I was interested in exploring, and together with my TDE coordinator we picked a few that we were most interested in. None of these were fixed, leaving the option for new ideas open.
+
+After these two weeks, I had also landed on a general theme for my assignment; researching the ways in which generative AI can be used to increase fan engagement. 
+
+### Project 1: Podcast Summarizer
+I made an application that automatically transcribes and summarizes podcasts. It's intended to be used by the journalists of RacingNews365, a Formula 1 news site, who get a lot of their news from podcasts. This tool could save them a lot of time, by extracting just the most pertinent info, and indicating whether or not the podcast is worth listening to. Me and my TDE coordinator decided on this project as a good introduction to using generative AI models, as audio and text is a relatively simple subject within the field.
+
+More info on my work and a reflection can be found [here](Project_1/Overview.md).
+
+![Application Screenshot](Project_1/Images/Screenshot1.png)
+
+### Project 2: Sport Icons
+TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
+
+More info on this project can be found [here](Project_2/Overview.md).
+  
+## Final
+Presentation at TDE about AI etc
+
+## Learning Outcomes
 **Learning outcome 1: Professional Duties**
 > You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
@@ -54,31 +90,3 @@ Skills to be buyilt uyp whjemn it comnes to comnmnuymnicatiomn (see below), plam
 Like I mentioned above, communication isn't one of my strong suits - I usually work in a very solitary fashion, finding it difficult to ask for feedback or share what I'm doing. This was very apparent during project 1, where I delivered a final product that functioned quite well, but that didn't quite live up to the potential it had because I didn't ask for feedback while I was working on it. Discussing my progress with stakeholders and colleagues likely would have resulted in a more well rounded application that better fit the needs of the stakeholders.
 
 Starting with project 2, I tried to actively discuss what I was doing, especially with stakeholders. I tried to not only show off my progress, but also discuss what I was planning and ways I could implement the brief. I think this resulted in better and more well-rounded final products. It also ensured that stakeholders and my colleagues at TDE were better informed and more involved with what I was working on, which had the added benefit of better integrating me in the team.
-
-## Internship Overview
-
-### First Weeks
-
-The first two weeks were spent getting to know the company, and getting to grips with my assignment. Early on, me and my coordinator at TDE decided that we would split the internship into four seperate projects, all focused on a different theme and subject within the field of generative AI. This way, I could explore more different avenues, as well as giving me the opportunity to swerve in direction if an exciting new direction suddenly opened up. Considering how fast the field of AI is moving nowadays, this is a very real possibility, and halfway through the internship TDE might suddenly think of something interesting I could be doing.
-
-I tried to get a good idea of the current state of AI, and what the possibilities were. Based on this research, I outlined several concepts and themes I was interested in exploring, and together with my TDE coordinator we picked a few that we were most interested in. None of these were fixed, leaving the option for new ideas open.
-
-After these two weeks, I had also landed on a general theme for my assignment; researching the ways in which generative AI can be used to increase fan engagement. 
-
-### Project 1: Podcast Summarizer
-
-I made an application that automatically transcribes and summarizes podcasts. It's intended to be used by the journalists of RacingNews365, a Formula 1 news site, who get a lot of their news from podcasts. This tool could save them a lot of time, by extracting just the most pertinent info, and indicating whether or not the podcast is worth listening to. Me and my TDE coordinator decided on this project as a good introduction to using generative AI models, as audio and text is a relatively simple subject within the field.
-
-More info on my work and a reflection can be found [here](Project_1/Overview.md).
-
-![Application Screenshot](Project_1/Images/Screenshot1.png)
-
-### Project 2: Sport Icons
-
-TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
-
-More info on this project can be found [here](Project_2/Overview.md).
-  
-## Final
-
-Presentation at TDE about AI etc
