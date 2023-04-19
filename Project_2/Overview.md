@@ -3,8 +3,16 @@ TDE will be hosting a Web3 showcase, where they are inviting several high-profil
 
 ## Research Questions
 
+- **How can I use generative AI to increase fan engagement?**  
 
-## Project Overview
+- **What different types of generative AI exist, and how can they be used in innovative new ways?**
+
+- **What are the needs of TDE's various customers, and how can I fulfill those?**
+
+- **What ethical considerations have to be taken into account when working with generative AI?**
+
+
+## Project Process
 
 ### Exploration and Planning  
 I tried to involve the other TDE employees in the process from the get-go, setting up a meeting with them to discuss possibilities and opportunities for the project, as well as its scope. We discussed the end goal of what I would be making, and how we could best achieve that goal, as well as doing some initial brainstorming.
