@@ -46,16 +46,14 @@ AI will very likely have a massive impact on our society, enabling us to do and 
 
 ## Progress and Results - Overview
 ### First Weeks
-The first two weeks were spent getting to know the company, and getting to grips with my assignment. Early on, me and my coordinator at TDE decided that we would split the internship into four seperate projects, all focused on a different theme and subject within the field of generative AI. This way, I could explore more different avenues, as well as giving me the opportunity to swerve in direction if an exciting new direction suddenly opened up. Considering how fast the field of AI is moving nowadays, this is a very real possibility, and halfway through the internship TDE might suddenly think of something interesting I could be doing.
-
-I tried to get a good idea of the current state of AI, and what the possibilities were. Based on this research, I outlined several concepts and themes I was interested in exploring, and together with my TDE coordinator we picked a few that we were most interested in. None of these were fixed, leaving the option for new ideas open.
-
-After these two weeks, I had also landed on a general theme for my assignment; researching the ways in which generative AI can be used to increase fan engagement. 
+The first two weeks were spent getting to know the company, and getting to grips with my assignment. I tried to get a good idea of the current state of AI, and what its possibilities were. Based on this research, I outlined several concepts and themes I was interested in exploring, and together with my TDE coordinator we picked a few that we were most interested in. None of these were fixed, leaving the option for new ideas open.
 
 ### Project 1 - Podcast Summarizer
 I made an application that automatically transcribes and summarizes podcasts. It's intended to be used by the journalists of RacingNews365, a Formula 1 news site, who get a lot of their news from podcasts. This tool could save them a lot of time, by extracting just the most pertinent info, and indicating whether or not the podcast is worth listening to. Me and my TDE coordinator decided on this project as a good introduction to using generative AI models, as audio and text is a relatively simple subject within the field.
 
-More info on my work and a reflection can be found [here](Project_1/Overview.md).
+More info this project can be found [here](Project_1/Overview.md).
+
+The repository with the source code, as well as the Jupyter Notebooks I used for early testing, of the project can be found [here](https://github.com/RikJansenTU/PodcastSummarizer).
 
 ![Application Screenshot](Project_1/Images/Screenshot1.png)
 
@@ -63,6 +61,8 @@ More info on my work and a reflection can be found [here](Project_1/Overview.md)
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
 More info on this project can be found [here](Project_2/Overview.md).
+
+The repository with the code for the application can be found [here](https://github.com/RikJansenTU/SportIcons).
   
 ## Final
 Presentation at TDE about AI etc
@@ -101,8 +101,8 @@ I tend to focus a bit too much on the technological side of my learning, but whi
 
 As for my organizational skills, I think there was a lot that could be gained from more meticulous planning and trying to organise the projects in a more structured manner, so I tried to focus on those for later projects, which is hopefully reflected in the project planning document.
 
-Freedom to do whjat I wamnt withj thje prohject
-Skills to be buyilt uyp whjemn it comnes to comnmnuymnicatiomn (see below), plamnmnimng, workimng as a part of a teamn, tried to focuys omn thjat
+_Freedom to do what I want with the project
+Skills to be built up when it comes to communication (see below), planning, working as a part of a tean, tried to focus on that_
 
 **Learning outcome 6: Targeted Interaction**
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
