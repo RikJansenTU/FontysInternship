@@ -5,6 +5,15 @@ Updated 19-4-23
 
 ![TDE Logo](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
+# Table of Contents
+[The Internship](#the-internship)
+* [Progress and Results - Overview](#progress-and-results---overview)
+  + [First Weeks](#first-weeks)
+  + [Project 1: Podcast Summarizer](#project-1--podcast-summarizer)   
+  + [Project 2: Sport Icons](#project-2--sport-icons)
+* [Final](#final)
+* [Learning Outcomes](#learning-outcomes)
+
 ## The Internship
 AI is playing an increasingly large role in society. New tools are rapidly being released to the public, quickly becoming more capable and sophisticated. Generative AI tools are now capable of creating art and music, writing code, function as personal assistants, or even build entire websites from scratch. For many industries, the technology is set to fundementally shake up the way things are done, for better or worse.  
 Sooner or later, most companies will come into contact with generative AI, so investigating the potential applications and dangers early on can be a great boon in the long term. A company who makes full use of AI powered tools might in the near future be able to create high-quality products with lower costs and fewer staff, outperforming competitors, or offer products to customers that are completely unique.
