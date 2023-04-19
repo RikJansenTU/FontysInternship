@@ -6,13 +6,13 @@ Updated 19-4-23
 ![TDE Logo](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
 # Table of Contents
-[The Internship](#the-internship)
-* [Progress and Results - Overview](#progress-and-results---overview)
-  + [First Weeks](#first-weeks)
-  + [Project 1: Podcast Summarizer](#project-1--podcast-summarizer)   
-  + [Project 2: Sport Icons](#project-2--sport-icons)
-* [Final](#final)
-* [Learning Outcomes](#learning-outcomes)
+- [The Internship](#the-internship)
+- [Progress and Results - Overview](#progress-and-results---overview)
+  * [First Weeks](#first-weeks)
+  * [Project 1 - Podcast Summarizer](#project-1---podcast-summarizer)   
+  * [Project 2 - Sport Icons](#project-2---sport-icons)
+- [Final](#final)
+- [Learning Outcomes](#learning-outcomes)
 
 ## The Internship
 AI is playing an increasingly large role in society. New tools are rapidly being released to the public, quickly becoming more capable and sophisticated. Generative AI tools are now capable of creating art and music, writing code, function as personal assistants, or even build entire websites from scratch. For many industries, the technology is set to fundementally shake up the way things are done, for better or worse.  
@@ -35,10 +35,13 @@ The following are the most important questions I want to answer over the course 
 - _How can I use generative AI to increase fan engagement?_  
 This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
 - _What different types of generative AI exist, and how can they be used in innovative new ways?_
-
+Exploring the types of AI available, as well as their uses, will play an important part in achieving the internship's goals.
 - _What are the needs of TDE's various customers, and how can I fulfill those?_
+If I can anticipate these customers' needs, and find a way to use AI to meet them, TDE will be able to proactively offer solutions, potentially earning them new clients or additional assignments.
 - _Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?_
-- _What ethical considerations have to be taken into account when working with AI?_
+The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.
+- _What ethical considerations have to be taken into account when working with generative AI?_
+AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
 
 
 ## Progress and Results - Overview
@@ -49,14 +52,14 @@ I tried to get a good idea of the current state of AI, and what the possibilitie
 
 After these two weeks, I had also landed on a general theme for my assignment; researching the ways in which generative AI can be used to increase fan engagement. 
 
-### Project 1: Podcast Summarizer
+### Project 1 - Podcast Summarizer
 I made an application that automatically transcribes and summarizes podcasts. It's intended to be used by the journalists of RacingNews365, a Formula 1 news site, who get a lot of their news from podcasts. This tool could save them a lot of time, by extracting just the most pertinent info, and indicating whether or not the podcast is worth listening to. Me and my TDE coordinator decided on this project as a good introduction to using generative AI models, as audio and text is a relatively simple subject within the field.
 
 More info on my work and a reflection can be found [here](Project_1/Overview.md).
 
 ![Application Screenshot](Project_1/Images/Screenshot1.png)
 
-### Project 2: Sport Icons
+### Project 2: - Sport Icons
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
 More info on this project can be found [here](Project_2/Overview.md).
