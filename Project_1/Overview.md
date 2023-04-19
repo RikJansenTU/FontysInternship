@@ -2,7 +2,7 @@
 An application that automatically transcribes and summarizes a podcast, intended for use by journalists who get a significant portion of their news from those podcasts.
 
 ## Research Questions
-Below are the research questions I formulated for this project, and the methods I used to answer them.
+Below are the research questions I formulated specifically for this project, and the methods I used to answer them.
 
 - **How can I make an application that fulfills the needs of the employees of RacingNews365?**  
 _Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.
