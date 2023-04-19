@@ -6,23 +6,28 @@ Updated 19-4-23
 ![TDE Logo](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
 ## The Internship
+AI is playing an increasingly large role in society. New tools are rapidly being released to the public, quickly becoming more capable and sophisticated. Generative AI tools are now capable of creating art and music, writing code, function as personal assistants, or even build entire websites from scratch. For many industries, the technology is set to fundementally shake up the way things are done, for better or worse.  
+Sooner or later, most companies will come into contact with generative AI, so investigating the potential applications and dangers early on can be a great boon in the long term. A company who makes full use of AI powered tools might in the near future be able to create high-quality products with lower costs and fewer staff, outperforming competitors, or offer products to customers that are completely unique.
 
-Description of the assignment, the problem or opportunity that has lead to the assignment, the goals and the context of the assignment
--introduction
-  blahblah ai, rapid development and innovation, will change the way things are done
--problem/opportunity
-  AI has a lot of potential, TDE wants to be at the forefront of new techology, to create better products and to be able to offer their customers more
--goal
-  Explore different aspects of ai and what they can do for TDE and the people using their products - be able to advice TDE on its potential uses
-- research questions
-  'How can I use generative AI to increase fan engagement?'
-    How can it benefit fans
-    How can it be used to make things that benefit fans
-- approach
-  Create different projects exploring different aspects of ai
+**The Opportunity**  
+Like I said above, generative AI has massive potential, and TDE is very interested in exploring the opportunities it offers. The company prides itself on being at the forefront of new technological advances, being able to offer their customers things that other marketing agencies can't. They [have worked with generative AI before](https://www.tde.nl/cases/the-masterpiece/), and see a lot of potential in its further use.  
+This internship is a great opportunity for me to investigate the current state of generative AI, what it could be used for, and how it could serve TDE in the future. Even if the things I create don't get used directly, they can be used as a showcase to show (potential) customers what TDE is capable of. 
+ 
+**The Goal**  
+I want to explore the different uses of generative AI, preferably casting as wide a net as possible to be able to investigate the different ways TDE might make use of the technology. This could be a tool that the company uses internally to create things or increase productivity, or something that they use to sell their services to potential customers.
+At the end of my internship, I will have showcased different applications of generative AI, and I'll be able to inform TDE on the best approaches to take when making use of the technology.
 
-The central research question I have tried to answer for TDE is 'How can I use generative AI to increase fan engagement?'. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
-AI is a quickly evolving field of computer science, which is why TDE is very interested in exploring what opportunities it offers them. This assignment is a great opportunity to create multiple experimental applications that can show off the power of AI to potential customers.
+**Research Questions**  
+- _How can I use generative AI to increase fan engagement?_  
+This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
+- _What ethical considerations have to be taken into account when working with AI?_
+
+    How can it benefit fans  
+    How can it be used to make things that benefit fans  
+    
+**Approach**    
+To be able to investigate as many different AI-related subjects as possible I decided, along with my mentor at TDE, to split the internship into three different projects. This way, I can explore a few different themes, applications, and types of technology so I get a good general impression of the state of generative AI and how it can be used to serve TDE.  
+Another advantage of setting up the internship this way is that it offers a certain amount of flexibility. Developments in the field of AI are incredibly rapid, which means it's very much possible that some new and groundbreaking piece of technology gets released halfway through the internship. Having a few different projects planned, the details of the later ones not yet set in stone, allows me a certain degree of flexibility to potentially make use of new AI developments.
 
 ## Progress and Results - Overview
 ### First Weeks
