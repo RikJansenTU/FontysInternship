@@ -75,6 +75,6 @@ This means TDE, and myself as an extension, have to ensure that the app I create
 
 ### The Future  
 
-There's a lot of elements to this issue that I haven't discussed, but that do warrant potential investigation in the future; not only ethical, but also social and legal, for example with regards to fair use or portrait rights. A lot of these issues don't have clear answers yet considering how relatively new this technology is.
+There's a lot of elements of this issue that I haven't discussed, but that do warrant potential investigation in the future; not only ethical, but also social and legal, for example with regards to fair use or portrait rights. A lot of these issues don't have clear answers yet considering how relatively new this technology is.
 
 I admit there's a certain conflict in me creating this tool, considering the ethical reservations I have with AI. I do however believe that one of the best way to investigate sociological and ethical impact of a certain technology is to get hands-on experience, seeing what tools are available and how their safety measures can be circuimvented. I've noticed that I'm very interested in examining these types of issues, and it's something I'd like to further explore in the future. AI will be a big theme in the coming years, and there's a lot that's still unclear about how its future will and should look; I'd like to play a part in figuring that out.
