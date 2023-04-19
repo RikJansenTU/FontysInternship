@@ -34,13 +34,13 @@ Another advantage of setting up the internship this way is that it offers a cert
 The following are the most important questions I want to answer over the course of the internship. The individual projects might have other, more specific, research questions attached; those will be listed in their respective chapters.  
 - _How can I use generative AI to increase fan engagement?_  
 This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
-- _What different types of generative AI exist, and how can they be used in innovative new ways?_
+- _What different types of generative AI exist, and how can they be used in innovative new ways?_  
 Exploring the types of AI available, as well as their uses, will play an important part in achieving the internship's goals.
-- _What are the needs of TDE's various customers, and how can I fulfill those?_
+- _What are the needs of TDE's various customers, and how can I fulfill those?_  
 If I can anticipate these customers' needs, and find a way to use AI to meet them, TDE will be able to proactively offer solutions, potentially earning them new clients or additional assignments.
-- _Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?_
+- _Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?_  
 The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.
-- _What ethical considerations have to be taken into account when working with generative AI?_
+- _What ethical considerations have to be taken into account when working with generative AI?_  
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
 
 
