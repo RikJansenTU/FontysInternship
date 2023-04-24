@@ -1,7 +1,6 @@
 # Research: AI Transcription and Summarization
 
 ## Transcription
-
 AI-based speech recognition might seem relatively mundane compared to some of the things we see AI do these days, but it's still very much an open problem. A top-tier AI model will still get 1 in 20 English words wrong, and other languages are often worse. Dutch, which is an important language for my tool, can be recognised quite well, but the best models still have a word error rate of around 7%. 
 
 Considering I still need to summarize the result of my transcription, these errors can be critical; when a user can see the full text it can be easy to infer the meaning of an incorrect word by context, but once that text gets summarized it might fundementally change the context and end result.
@@ -26,7 +25,6 @@ In the end, I opted to use the small models, using small.en if the English langu
 
 
 ## Summarization
-
 AI summarization is less of a challenge than transcription, and there are a lot of great models to choose from. It's a bit harder to objectively rate a summary, considering there is no 'right' answer, so I simply set up a prototype to try out a few summarization models and judged their quality myself. I used the Whsiper-generated transcription of a Dutch podcast as my original text, because I wanted to find a summarization model that could handle the kind of grammatical oddities that can result from imperfect transcriptions. Three summaries by different models based on the same transcription can be found [here](Documents/Summary_Model_Tests.md).  
 I ended up picking Facebook's Bart-large-CNN, a model fine-tuned on CNN articles and their summaries, which seemed to generate the most coherent summaries.
 
