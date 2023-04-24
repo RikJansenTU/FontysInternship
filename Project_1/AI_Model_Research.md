@@ -27,7 +27,7 @@ In the end, I opted to use the small models, using small.en if the English langu
 
 ## Summarization
 
-AI summarization is less of a challenge than transcription, and there are a lot of great models to choose from. It's a bit harder to objectively rate a summary, considering there is no 'right' answer, so I simply set up a prototype to try out a few summarization models and judged their quality myself. I used the Whsiper-generated transcription of a Dutch podcast as my original text, because I wanted to find a summarization model that could handle the kind of grammatical oddities that can result from imperfect transcriptions. Three summaries by different models based on the same transcription can be found [here]()
+AI summarization is less of a challenge than transcription, and there are a lot of great models to choose from. It's a bit harder to objectively rate a summary, considering there is no 'right' answer, so I simply set up a prototype to try out a few summarization models and judged their quality myself. I used the Whsiper-generated transcription of a Dutch podcast as my original text, because I wanted to find a summarization model that could handle the kind of grammatical oddities that can result from imperfect transcriptions. Three summaries by different models based on the same transcription can be found [here](Documents/Summary_Model_Tests.md)
 I ended up picking Facebook's Bart-large-CNN, a model fine-tuned on CNN articles and their summaries, which seemed to generate the most coherent summaries.
 
 ### Sources
