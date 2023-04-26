@@ -57,12 +57,17 @@ The repository with the source code, as well as the Jupyter Notebooks I used for
 
 ![Application Screenshot](Project_1/Images/Screenshot1.png)
 
-### Project 2: - Sport Icons
+### Project 2 - Sport Icons
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
 More info on this project can be found [here](Project_2/Overview.md).
 
 The repository with the code for the application can be found [here](https://github.com/RikJansenTU/SportIcons).
+
+### Project 3 - In The Shoes Of...
+For my final project I wanted to create something that fans interacted with in a more direct manner. I decided to create a tool that would allow people to generate sports-related action shots of themselves, for example playing football for their favorite team. The goal was to allow users to upload pictures of themselves and use those to finetune an image generation AI, so it could create realistic depictions of them.
+
+More info on this project can be found [here](Project_3/Overview.md).
   
 ## Final
 Presentation at TDE about AI etc
