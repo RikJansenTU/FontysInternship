@@ -48,7 +48,7 @@ The repository with the code for the application can be found [here](https://git
 ![MJ Talking.gif](Images/MJ_Talking.gif)  
 _Video generated using the final product_
 
-### Reflection  
+## Reflection  
 The development of this project was quite different from that of the the previous one: it didn't present as much of a technical challenge because I was making use of APIs, so the focus was more on combining existing tools into something new, and creating an app that was easy to use and corresponded to TDE's brief. To achieve this, I gathered much more feedback, showing my progress several times a week, and discussing the direction I was going and what could be improved.
 
 This helped me refine and improve my prototypes, and helped me come up with new approaches to the challenges I faced, for example the usage of Midjourney to circuimvent D-ID's filters. It also made the project more focused; instead of creating requirements beforehand and getting to work on my own, the more frequent discussion of my progress ensured I had a better idea of what TDE was looking for, and allowed me to make changes accordingly.
