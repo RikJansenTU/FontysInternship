@@ -68,7 +68,10 @@ The repository with the code for the application can be found [here](https://git
 For my final project I wanted to create something that fans interacted with in a more direct manner. I decided to create a tool that would allow people to generate sports-related action shots of themselves, for example playing football for their favorite team. The goal was to allow users to upload pictures of themselves and use those to finetune an image generation AI, so it could create realistic depictions of them.
 
 More info on this project can be found [here](Project_3/Overview.md).
-  
+
+## Research Questions  
+Conclusions (TODO)  
+
 ## Final
 Presentation at TDE about AI etc
 
