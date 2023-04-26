@@ -57,7 +57,7 @@ Methods:
 Deliverables:   
 - **What ethical considerations have to be taken into account when working with generative AI?**  
 Methods:  
-Deliverables: I wrote a [short report](Ethical_Considerations.md) on the ethical issues I see arising from applications like this one, as well as some reccomendations to safeguard against abuse.  
+Deliverables: I wrote a [short report](Ethical_Considerations.md) on the ethical issues I see arising from applications like this one, as well as some reccommendations to safeguard against abuse.  
 
 **Other Deliverables**  
 Frontend designs
