@@ -24,7 +24,7 @@ Also made Kanban board for planning
 
 ### Development
 
-## Research Questions and Deliverables
+## Research Results and Deliverables
 **Research Questions**  
 - **How can I use generative AI to increase fan engagement?**  
 
