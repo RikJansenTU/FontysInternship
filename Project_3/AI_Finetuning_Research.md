@@ -3,6 +3,7 @@ Results are unpredictable
   Stylistic changes can help hide imperfections  
 The bigger the image the more can go wrong
   Image to image, using a few base images to make sure composition etc are solid
+  Composition: can pick a few good seeds and reuse those
   
  First Finetune on eg PSV shirt, then use user photos to further finetune
 
