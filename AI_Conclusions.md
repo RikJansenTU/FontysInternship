@@ -1,6 +1,8 @@
-Training your own vs using apis etc
-Value to company as a tool
-Value to company as way of reaching customers
+Training your own vs using apis etc  
+Value to company as a tool  
+Value to company as way of reaching customers  
+
+Moving incredibly fast - AI tools are becoming more and more commonplace (see chatgpt) so if you want to offer something novel you have to be very fast
 
 API vs existing model vs training your own
 
