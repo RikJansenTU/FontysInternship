@@ -1,4 +1,5 @@
-# Project 3: In the Shoes Of...
+# Project 3: In the Shoes Of...  
+An application that allows users to visualise themselves in the shoes of their favorite athletes using AI generated imagery. They can upload a few photos of themselves, which will be used to finetune an AI model so it can accurately replicate their face and place it in fictional sports-related scenes, creating something completely unique and personalized.
 
 ## Research Questions
 - **How can I use generative AI to increase fan engagement?**  
@@ -11,6 +12,7 @@ Contrary to the other two projects, this one wasn't started specifically to fulf
 Many people, including myself, are wary of AI as a technology. I want to use this project to investigate uses of AI that are positive and fun, and being able to offer something to sports fans directly is a great opportunity for that.  
 - **What ethical considerations have to be taken into account when working with generative AI?**  
 While people are supposed to make use of the tool voluntarily, which mitigates some of the ethical concerns, there is still a lot to be taken into account - misinformation or abuse are always a possibility, and data storage and privacy is still a concern. I want to make sure the tool is as safe as it can be, by examining how it could be abused and how I can prevent that.  
+
 ## Project Process
 ### Initial Research and First Steps
 Meeting with client leads to discuss who could use it - lots of potential, maybe save for something cooler  
