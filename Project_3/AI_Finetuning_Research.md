@@ -3,9 +3,12 @@ Results are unpredictable
   Stylistic changes can help hide imperfections  
 The bigger the image the more can go wrong
   Image to image, using a few base images to make sure composition etc are solid
-  Composition: can pick a few good seeds and reuse those
- Dreambooth/LoRA/Textual Inversion
-  https://civitai.com/
+  Composition: can pick a few good seeds and reuse those  
+ Dreambooth/LoRA/Textual Inversion (embeddings)/Hypernetworks  
+  Dreambooth: good results but very large  
+  Hypernetworks produce worse results than LoRA  
+  https://civitai.com/  
+ VAE for improvements
   
  Realistic Vision V2
  
@@ -18,7 +21,10 @@ https://www.youtube.com/watch?v=dl7CSdzvl44
 https://www.youtube.com/watch?v=dfMLrytpfAU  
 https://www.youtube.com/watch?v=XBn3K1L_TAI&t=1s  
 https://andrewongai.gumroad.com/l/dreambooth_tutorial  
-https://stable-diffusion-art.com/dreambooth/
+https://stable-diffusion-art.com/dreambooth/  
+https://stable-diffusion-art.com/how-to-come-up-with-good-prompts-for-ai-image-generation/#Some_good_keywords_for_you  
+https://stable-diffusion-art.com/automatic1111/  
+https://stable-diffusion-art.com/prompt-guide/  
 
 ### Sources
 https://dreambooth.github.io/  
