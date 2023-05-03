@@ -25,6 +25,12 @@ https://stable-diffusion-art.com/dreambooth/
 https://stable-diffusion-art.com/how-to-come-up-with-good-prompts-for-ai-image-generation/#Some_good_keywords_for_you  
 https://stable-diffusion-art.com/automatic1111/  
 https://stable-diffusion-art.com/prompt-guide/  
+https://huggingface.co/docs/diffusers/quicktour
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb
+https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb
+https://www.youtube.com/watch?v=dVjMiJsuR5o
+https://huggingface.co/docs/diffusers/optimization/xformers
+https://huggingface.co/docs/diffusers/optimization/fp16#memory-and-speed
 
 ### Sources
 https://dreambooth.github.io/  
@@ -32,3 +38,19 @@ https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 https://arxiv.org/abs/2208.12242  
 https://textual-inversion.github.io/  
 https://arxiv.org/abs/2106.09685  
+https://lexica.art/
+https://artificialintelligenceact.eu/
+https://huggingface.co/blog/ethics-diffusers
+https://www.pnas.org/doi/10.1073/pnas.1611835114
+https://github.com/facebookresearch/xformers
+
+### Huggingface stuff
+https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/latent_upscale
+https://huggingface.co/docs/diffusers/training/text_inversion
+https://huggingface.co/docs/diffusers/v0.16.0/en/api/pipelines/stable_diffusion/text2img#diffusers.StableDiffusionPipeline
+
+### Styles
+Marc Allante
+Valorant
+Midjourney
+Arcane
