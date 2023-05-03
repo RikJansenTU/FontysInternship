@@ -48,6 +48,7 @@ https://github.com/facebookresearch/xformers
 https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/latent_upscale
 https://huggingface.co/docs/diffusers/training/text_inversion
 https://huggingface.co/docs/diffusers/v0.16.0/en/api/pipelines/stable_diffusion/text2img#diffusers.StableDiffusionPipeline
+https://github.com/huggingface/diffusers/blob/main/examples/textual_inversion/textual_inversion.py
 
 ### Styles
 Marc Allante
