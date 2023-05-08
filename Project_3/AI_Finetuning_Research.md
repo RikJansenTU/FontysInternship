@@ -34,35 +34,18 @@ LoRA stands for Low-Rank Adaptation, and modifies the cross-attention layer of t
 **Hypernetworks**  
 Hypernetworks is a fine-tuning method developed by [NovelAI](), which inserts small neural networks into the cross-attention layer of the original model. They are lightweight, small in size, and relatively easy to train. However, it is difficult to train a hypernetwork on multiple subjects, and users report worse results compared to LoRA or embeddings, with little to no gain in size or performance.
 
-
-
-
-Large processing power requirements  -> expensive, probably won't work for a free tool  
-Results are unpredictable  
-  Stylistic changes can help hide imperfections  
-The bigger the image the more can go wrong
-  Image to image, using a few base images to make sure composition etc are solid
-  Composition: can pick a few good seeds and reuse those  
-
-
-   
- VAE for improvements
-  
- Realistic Vision V2
- 
- First Finetune on eg PSV shirt, then use user photos to further finetune
-
 ### Conclusion and Implementation
 Objective comparison between the results different fine-tuning methods is difficult; there hasn't been much research performed into their differences, and because their results are images it's hard to make meaningful distinctions. Because of the relatively long training times, especially on my own PC, it's also difficult to set up prototypes to do testing myself.
 
 There are some other considerations to take into account, however. While Dreambooth seems to be able to produce the best all-round results, its large file sizes make it a bad fit for my application. Having to store a 2 GB file for every user would be highly impractical.  
 The concensus about hypernetworks seems to be that they produce universally worse results than the other methods, which means they can be removed from consideration.  
-That leaves textual inversion and LoRAs, the differences between which are much harder to quantify. Some report better general results when using the latter, whereas the former is sometimes considered to be better at reproducing people. Embeddings can easily be combined, for example allowing for the addition of both a specific sports jersey and a person's face to a single model. LoRAs are quicker to train, which is a great advantage, but the process will still take at least a few hours.
+That leaves textual inversion and LoRAs, the differences between which are much harder to quantify. Some report better general results when using the latter, whereas the former is sometimes considered to be better at reproducing people. Embeddings can easily be combined, for example allowing for the addition of both a specific sports jersey and a person's face to a single model. LoRAs are quicker to train, which is a great advantage, but the process will still take a few hours at least.
 
+Seeing as textual inversion is a good fit for my purposes, I decided to try to prototype this method first. Implementation proved very difficult however; the subject matter is very advanced, and due to how new the technology is there are no tutorials on how to program the training process. I tried to implement as much as I could (the results of which can be found in the 'training' folder in the [code repository]()), but eventually realised that getting it to work would require more time than I had for this project.
+Instead, I made use of external tools to train my embeddings so I could experiment with the best options. This did unfortunately mean I would't be able to implement training functionality directly into my own application, turning it from a feature-complete tool into a proof-of-concept. I do believe this is still very valuable as a way of exploring this category of generative AI, however.
 
-Implementation: attempted, but very difficult to do programmatically -> use automatic1111  
-Do inference in software, more proof of concept
-
+Results of textual inversion
+Results of LoRA
 
 ### Glossary of Terms
 **Diffusion Model**  
