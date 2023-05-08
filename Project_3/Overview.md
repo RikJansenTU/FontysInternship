@@ -15,12 +15,18 @@ While people are supposed to make use of the tool voluntarily, which mitigates s
 
 ## Project Process
 ### Initial Research and First Steps
-Meeting with client leads to discuss who could use it - lots of potential, maybe save for something cooler  
-  
-Hardest project so far, not even sure if its possible, needed a lot more research (see report)  
-Figured out a good way to do it, first experiment with tools before starting on code  
+I set up a meeting with several client leads at TDE to discuss potential uses for a tool like the one I'm making. Initially, it was supposed to be a pitch for BN Media, a group operating many football fan sites, to create a fun tool for fans of a specific football club to generate images of themselves playing for their team. TDE, however, saw more potential in the project, and some of the client leads thought it would be a waste to not use it for something bigger. They offered some potential alternatives (like the football european cup) but in the end we decided to turn this project into a proof-of-concept, waiting for a better opportunity to present itself to actually offer it to a client.
 
-Also made Kanban board for planning  
+This is the most complex project out of the three by far, so I needed to do some initial research to get situated and get my bearings. After getting a general idea of what would be required, I set up a Kanban board to plan out the rest of the project.
+
+### Further Research
+For this project, I would need to train a generative AI model to be able to reproduce specific faces, as well as other objects like sports jerseys. Given the complexity of the subject, I spent several weeks on researching ways of achieving this goal, the process and results of which can be found [here](AI_Finetuning_Research.md).
+
+Based on this research, there were some other observations I made regarding the project. First of all, fine-tuning an AI model still requires a large amount of processing power, something which is unlikely to change any time soon, which means that a tool like this would most likely require some form of payment or risk becoming very expensive to operate for a large userbase. Another consequence of this processing power is that the training will take a few hours at least. This is fine, but it does mean I won't be able to offer an easy-to-use app that gives results within minutes.
+
+Another consideration is that generative AI is still relatively unpredictable, and tends to generate a lot of strange or nonsensical results, which means that a set of images will need to be generated every time, allowing users to pick their favorites.  
+I did do some seperate research into ways to ensure the results would be as good as possible, and there are a few options. The first is good prompt engineering, making use of positive and negative prompts to get reliable results. Another options is the addition of an art style; a more 'loose' artstyle can hide imperfections that would be obvious in more photorealistic results. Some of the same techniques of finetuning can also be used to teach a model new styles, which will come in handy.  
+Lastly, the more complex the desired end result is, the more can go wrong. To help steer the results in the right direction, it can help to provide hand-picked 'seeds', which will affect the composition of the end result without locking down the details.
 
 ### Development
 
@@ -46,3 +52,7 @@ Code
 Frontend design  
 
 ## Reflection
+
+ VAE for improvements
+  
+ Realistic Vision V2
