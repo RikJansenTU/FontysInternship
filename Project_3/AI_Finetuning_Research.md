@@ -21,18 +21,21 @@ I am using the 1.5 model, even though the newer 2.0 and 2.1 are publicly availab
 
 There are four main methods of finetuning a text-to-image model: Dreambooth, textual inversion, LoRA, and hypernetworks. Each work in slightly different ways, and have different advantages and disadvantages, all of which I will summarize below.
 
-**Dreambooth**
-Dreambooth is a fine-tuning method for diffusion models published by Google in 2022, which allows you to inject a custom subject into the model based on a few pictures and a matching identifier. As a result, the model can generate highly accurate reproductions of the subjects in a variety of new situations. The model gets retrained completely, requiring a large amount of processing power and resulting in a very large file (2-5 GB) for each fine-tuning.
-  Dreambooth: good results but very large  
+**Dreambooth**  
+Dreambooth is a fine-tuning method for diffusion models published by Google in 2022, which allows you to inject a custom subject into the model based on a few pictures and a matching identifier. As a result, the model can generate highly accurate reproductions of the subjects in a variety of new situations. The model gets retrained completely, resulting in a very large file (2-5 GB) for each adaptation.
   
-**Textual Inversion**
+**Textual Inversion**  
+Textual inversion is a technique that also allows you to 'teach' new subjects to a diffusion model, but unlike Dreambooth the image generation model itself isn't changed. Instead, it affects the part of the AI that controls how a prompt gets used to generate an image, inserting a new keyword. Textual inversion basically allows you to add a new term to the AI's vocabulary. Because the image generation model isn't affected, the file resulting from the fine-tuning process is much smaller, usually around 100 KB.  
+These files are called embeddings, and because of the way they work it's possible to add a variety of new subjects and even artstyles to the same embedding, allowing a great degree of customization. They produce relatively good results based on just a few pictures, but training does take a relatively long time.
 
-**LoRA**
+**LoRA**  
+LoRA stands for Low-Rank Adaptation, and modifies the cross-attention layer of the diffusion model, the part where the prompt is used to steer the image generation in the right direction. LoRA adds and adjusts some weights in this layer, modifying it to be able to generate a new subject or style without having to completely retrain the model. To optimize this process, LoRA reduces the model's weights matrix into multiple lower-rank matrixes, resulting in relatively small file-sizes of around 100-200 MB, and a fast training time.  
 
-
-
-**Hypernetworks**
+**Hypernetworks**  
 Hypernetworks is a fine-tuning method developed by [NovelAI](), which inserts small neural networks into the cross-attention layer of the original model. They are lightweight, small in size, and relatively easy to train. However, it is difficult to train a hypernetwork on multiple subjects, and users report worse results compared to LoRA or embeddings, with little to no gain in size or performance.
+
+
+
 
 Large processing power requirements  -> expensive, probably won't work for a free tool  
 Results are unpredictable  
@@ -42,7 +45,7 @@ The bigger the image the more can go wrong
   Composition: can pick a few good seeds and reuse those  
 
 
-  https://civitai.com/  
+   
  VAE for improvements
   
  Realistic Vision V2
@@ -50,6 +53,12 @@ The bigger the image the more can go wrong
  First Finetune on eg PSV shirt, then use user photos to further finetune
 
 ### Conclusion and Implementation
+Objective comparison between the results different fine-tuning methods is difficult; there hasn't been much research performed into their differences, and because their results are images it's hard to make meaningful distinctions. Because of the relatively long training times, especially on my own PC, it's also difficult to set up prototypes to do testing myself.
+
+There are some other considerations to take into account, however. While Dreambooth seems to be able to produce the best all-round results, its large file sizes make it a bad fit for my application. Having to store a 2 GB file for every user would be highly impractical.  
+The concensus about hypernetworks seems to be that they produce universally worse results than the other methods, which means they can be removed from consideration.  
+That leaves textual inversion and LoRAs, the differences between which are much harder to quantify. Some report better general results when using the latter, whereas the former is sometimes considered to be better at reproducing people. Embeddings can easily be combined, for example allowing for the addition of both a specific sports jersey and a person's face to a single model. LoRAs are quicker to train, which is a great advantage, but the process will still take at least a few hours.
+
 
 Implementation: attempted, but very difficult to do programmatically -> use automatic1111  
 Do inference in software, more proof of concept
@@ -86,19 +95,21 @@ https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 https://arxiv.org/abs/2208.12242  
 https://textual-inversion.github.io/  
 https://arxiv.org/abs/2106.09685  
-https://lexica.art/
-https://artificialintelligenceact.eu/
-https://huggingface.co/blog/ethics-diffusers
-https://www.pnas.org/doi/10.1073/pnas.1611835114
+https://lexica.art/  
+https://artificialintelligenceact.eu/  
+https://huggingface.co/blog/ethics-diffusers  
+https://www.pnas.org/doi/10.1073/pnas.1611835114  
 https://github.com/facebookresearch/xformers  
-https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
-https://arxiv.org/abs/1909.04499
+https://www.semianalysis.com/p/google-we-have-no-moat-and-neither  
+https://arxiv.org/abs/1909.04499  
+https://civitai.com/  
 
 ### Huggingface stuff
 https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/latent_upscale
 https://huggingface.co/docs/diffusers/training/text_inversion
 https://huggingface.co/docs/diffusers/v0.16.0/en/api/pipelines/stable_diffusion/text2img#diffusers.StableDiffusionPipeline
 https://github.com/huggingface/diffusers/blob/main/examples/textual_inversion/textual_inversion.py
+
 
 ### Styles
 Marc Allante
