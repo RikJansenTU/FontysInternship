@@ -12,10 +12,9 @@ I have created the following requirements for the application I'm building:
 The goal of this research is to investigate the different methods of fine-tuning an AI model, finding the one that best suits my needs, and learning how to implement it. 
 
 ### Research Methods
-Mostly literature research and available product analysis where possible  
-Challenge, no real documentation or good tutorials available yet
+This is a field of technology that is both very new and rapidly advancing, which made researching a challenge; while many research papers have been released over the past couple of years, there is a lack of meta-analysis or comprehensive tutorials on implementations. Most of my research was literature study, first gathering information on the different fine-tuning methods abailable and later investigating how they worked. I tried to analyse their differences, finally setting up prototypes and judging the results.
 
-### Finetuning Methods
+### Fine-tuning Methods
 First, a quick word on the text-to-image model I've elected to use: Stable Diffusion 1.5. The choice for this model is an easy one, it being the only high quality fully open-source model available, which means many fine-tuning methods were either developed for Stable Diffusion, or quickly adapted to it. For this reason, it has also become the centerpiece of the text-to-image community.  
 I am using the 1.5 model, even though the newer 2.0 and 2.1 are publicly available - the reason for this is that version 2 was trained on a different image set, and many users actually report worse and less reliable results when using it.
 
@@ -44,15 +43,33 @@ That leaves textual inversion and LoRAs, the differences between which are much 
 Seeing as textual inversion is a good fit for my purposes, I decided to try to prototype this method first. Implementation proved very difficult however; the subject matter is very advanced, and due to how new the technology is there are no tutorials on how to program the training process. I tried to implement as much as I could (the results of which can be found in the 'training' folder in the [code repository]()), but eventually realised that getting it to work would require more time than I had for this project.
 Instead, I made use of external tools to train my embeddings so I could experiment with the best options. This did unfortunately mean I would't be able to implement training functionality directly into my own application, turning it from a feature-complete tool into a proof-of-concept. I do believe this is still very valuable as a way of exploring this category of generative AI, however.
 
-Results of textual inversion
+Results of textual inversion  
 Results of LoRA
 
-### Glossary of Terms
-**Diffusion Model**  
-**Fine-Tuning**  
-**Generative AI**  
-**Latent Model**  
-**Text-to-Image Model**  
+#### Sources
+- Dreambooth abtract and showcase  
+https://dreambooth.github.io/  
+- Dreambooth paper  
+https://arxiv.org/abs/2208.12242  
+- Dreambooth implementation for Stable Diffusion  
+https://github.com/XavierXiao/Dreambooth-Stable-Diffusion  
+- Textual inversion abstract and showcase  
+https://textual-inversion.github.io/  
+- Textual inversion paper  
+https://arxiv.org/abs/2208.01618  
+- LoRA paper  
+https://arxiv.org/abs/2106.09685  
+- Paper on overcoming catastrophic forgetting in machine learning algorithms  
+https://www.pnas.org/doi/10.1073/pnas.1611835114  
+- Repository for xFormers, optimizations for model training  
+https://github.com/facebookresearch/xformers  
+- Paper on countering language drift  
+https://arxiv.org/abs/1909.04499   
+
+https://www.semianalysis.com/p/google-we-have-no-moat-and-neither  
+https://lexica.art/  
+https://artificialintelligenceact.eu/  
+https://huggingface.co/blog/ethics-diffusers  
 
 ### Tutorials
 https://www.youtube.com/watch?v=usgqmQ0Mq7g  
@@ -72,21 +89,6 @@ https://www.youtube.com/watch?v=dVjMiJsuR5o
 https://huggingface.co/docs/diffusers/optimization/xformers
 https://huggingface.co/docs/diffusers/optimization/fp16#memory-and-speed
 
-### Sources
-https://dreambooth.github.io/  
-https://github.com/XavierXiao/Dreambooth-Stable-Diffusion  
-https://arxiv.org/abs/2208.12242  
-https://textual-inversion.github.io/  
-https://arxiv.org/abs/2106.09685  
-https://lexica.art/  
-https://artificialintelligenceact.eu/  
-https://huggingface.co/blog/ethics-diffusers  
-https://www.pnas.org/doi/10.1073/pnas.1611835114  
-https://github.com/facebookresearch/xformers  
-https://www.semianalysis.com/p/google-we-have-no-moat-and-neither  
-https://arxiv.org/abs/1909.04499  
-https://civitai.com/  
-
 ### Huggingface stuff
 https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/latent_upscale
 https://huggingface.co/docs/diffusers/training/text_inversion
@@ -95,6 +97,7 @@ https://github.com/huggingface/diffusers/blob/main/examples/textual_inversion/te
 
 
 ### Styles
+https://civitai.com/   
 Marc Allante
 Valorant
 Midjourney
