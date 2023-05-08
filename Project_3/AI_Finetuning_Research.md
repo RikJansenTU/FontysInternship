@@ -11,22 +11,37 @@ I have created the following requirements for the application I'm building:
 
 The goal of this research is to investigate the different methods of fine-tuning an AI model, finding the one that best suits my needs, and learning how to implement it. 
 
-
 ### Research Methods
 Mostly literature research and available product analysis where possible  
 Challenge, no real documentation or good tutorials available yet
 
 ### Finetuning Methods
-A word on Stable diffusion (why not another model) 1.5 vs 2.0 vs 2.1
+First, a quick word on the text-to-image model I've elected to use: Stable Diffusion 1.5. The choice for this model is an easy one, it being the only high quality fully open-source model available, which means many fine-tuning methods were either developed for Stable Diffusion, or quickly adapted to it. For this reason, it has also become the centerpiece of the text-to-image community.  
+I am using the 1.5 model, even though the newer 2.0 and 2.1 are publicly available - the reason for this is that version 2 was trained on a different image set, and many users actually report worse and less reliable results when using it.
+
+There are four main methods of finetuning a text-to-image model: Dreambooth, textual inversion, LoRA, and hypernetworks. Each work in slightly different ways, and have different advantages and disadvantages, all of which I will summarize below.
+
+**Dreambooth**
+Dreambooth is a fine-tuning method for diffusion models published by Google in 2022, which allows you to inject a custom subject into the model based on a few pictures and a matching identifier. As a result, the model can generate highly accurate reproductions of the subjects in a variety of new situations. The model gets retrained completely, requiring a large amount of processing power and resulting in a very large file (2-5 GB) for each fine-tuning.
+  Dreambooth: good results but very large  
+  
+**Textual Inversion**
+
+**LoRA**
+
+
+
+**Hypernetworks**
+Hypernetworks is a fine-tuning method developed by [NovelAI](), which inserts small neural networks into the cross-attention layer of the original model. They are lightweight, small in size, and relatively easy to train. However, it is difficult to train a hypernetwork on multiple subjects, and users report worse results compared to LoRA or embeddings, with little to no gain in size or performance.
+
 Large processing power requirements  -> expensive, probably won't work for a free tool  
 Results are unpredictable  
   Stylistic changes can help hide imperfections  
 The bigger the image the more can go wrong
   Image to image, using a few base images to make sure composition etc are solid
   Composition: can pick a few good seeds and reuse those  
- Dreambooth/LoRA/Textual Inversion (embeddings)/Hypernetworks  
-  Dreambooth: good results but very large  
-  Hypernetworks produce worse results than LoRA  
+
+
   https://civitai.com/  
  VAE for improvements
   
@@ -77,6 +92,7 @@ https://huggingface.co/blog/ethics-diffusers
 https://www.pnas.org/doi/10.1073/pnas.1611835114
 https://github.com/facebookresearch/xformers  
 https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
+https://arxiv.org/abs/1909.04499
 
 ### Huggingface stuff
 https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/latent_upscale
