@@ -1,3 +1,23 @@
+# Finetuning a Generative AI Model to Suit Your Needs
+The release of OpenAI's DALL-E generative AI model for generating images based on user-submitted prompts was probably the event that launched generative AI into the public consciousness. Any user could suddenly generate artwork in seconds, making AI tangible and accessible even to those without a technical background.
+Ever since, these so-called text-to-image AI models have been advancing rapidly. [Midjourney]() was released to the public in July 2022, rapidly becoming extremely popular to it's ease of use and high quality output. In the same month, [DALL-E 2]() entered its own beta, boasting a range of improvements over its predecessor.  
+The model I am most interested in for my purposes, however, is [Stability AI's Stable Diffusion](). This model is relatively lightweight, meaning it can run on consumer hardware, and most importantly it's completely open-source. The latter has led to a flurry of tools and methods to customize the model to suit your exact needs - something I can make good use of for my project. This process is called fine-tuning; making adjustments to an existing AI model so it learns to generate specific content, for example being able to replicate specific faces.
+
+I have created the following requirements for the application I'm building:  
+- **Accurate:** especially when it comes to their own faces, people will easily be able to spot small imperfections, which means the application will need to be quite good at replicating them.
+- **Multiple parameters:** aside from faces, the model will likely need to be fine-tuned on other things, like specific football kits, which means the chosen method will need to be able to accommodate multiple adjustments.
+- **Small:** the application is supposed to be used by a large group of users, resulting in a lot of fine-tuned models that will have to be stored, so the smaller the file the better.
+- **Fast:** the longer users have to wait to get their result the less attractive using the application will be. Faster models will also require less processing power, lowering the operating costs.
+
+The goal of this research is to investigate the different methods of fine-tuning an AI model, finding the one that best suits my needs, and learning how to implement it. 
+
+
+### Research Methods
+Mostly literature research and available product analysis where possible  
+Challenge, no real documentation or good tutorials available yet
+
+### Finetuning Methods
+A word on Stable diffusion (why not another model) 1.5 vs 2.0 vs 2.1
 Large processing power requirements  -> expensive, probably won't work for a free tool  
 Results are unpredictable  
   Stylistic changes can help hide imperfections  
@@ -13,6 +33,19 @@ The bigger the image the more can go wrong
  Realistic Vision V2
  
  First Finetune on eg PSV shirt, then use user photos to further finetune
+
+### Conclusion and Implementation
+
+Implementation: attempted, but very difficult to do programmatically -> use automatic1111  
+Do inference in software, more proof of concept
+
+
+### Glossary of Terms
+**Diffusion Model**  
+**Fine-Tuning**  
+**Generative AI**  
+**Latent Model**  
+**Text-to-Image Model**  
 
 ### Tutorials
 https://www.youtube.com/watch?v=usgqmQ0Mq7g  
@@ -42,7 +75,8 @@ https://lexica.art/
 https://artificialintelligenceact.eu/
 https://huggingface.co/blog/ethics-diffusers
 https://www.pnas.org/doi/10.1073/pnas.1611835114
-https://github.com/facebookresearch/xformers
+https://github.com/facebookresearch/xformers  
+https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 
 ### Huggingface stuff
 https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/latent_upscale
