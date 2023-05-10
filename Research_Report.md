@@ -11,9 +11,9 @@ This is the main research question I want to answer during my internship. Fan en
 Exploring the types of AI available, as well as their uses, will play an important part in achieving the internship's goals.
 1, 2, 3
 ### Methods
-_Available product analysis / community research:_ Over the last years the number of freely available AI tools has exploded, so I'll have many I can use and build upon. I had to determine if there were existing tools that suited my needs and how they could be implemented. Also, being aware of the available tools ensured I wasn't creating that already existed, and allowed me to identify areas where innovation was still possible.  
-_Literature study:_ If no ready-to-use tools were available, I had to figure out how to implement and apply generative AI models myself, which required research into how these models work.  
-_Prototyping:_ I set up a series of simple prototypes that I could use to test different models and compare them, as well as getting to grips with the technology involved.
+**Available product analysis / community research:** Over the last years the number of freely available AI tools has exploded, so I'll have many I can use and build upon. I had to determine if there were existing tools that suited my needs and how they could be implemented. Also, being aware of the available tools ensured I wasn't creating anything that already existed, and allowed me to identify areas where innovation was still possible.  
+**Literature study:** If no ready-to-use tools were available, I had to figure out how to implement and apply generative AI models myself, which required research into how these models work.  
+**Prototyping:** I set up a series of simple prototypes that I could use to test different models and compare them, as well as getting to grips with the technology involved.
 
 ### Conclusions
 AI tools are quickly becoming easier to use and implement for your own goals - for example, OpenAI released a Whisper API several weeks after I had finished project 1, making transcription significantly easier. For many areas, however, easy-to-use tools and well-implemented and documented APIs are still difficult to find, which can be both an advantage and a disadvantage.  
@@ -23,13 +23,16 @@ I don't think trying to develop and train AI models from scratch is worth it, co
 The Jupyter Notebooks with my protypes for project 1 can be found [here](https://github.com/RikJansenTU/PodcastSummarizer).  
 A more comprehensive research report on transcription and summarization AI models can be found in [this research report](/Project_1/AI_Model_Research.md).  
 A research report on fine-tuning a text-to-image AI model with custom subjects can be found [here]().
+Some samples from my experimentation with prompt building for project can be found [here]().
 
 ## What are the needs of TDE's various customers, and how can I fulfill those?
 If I can anticipate these customers' needs, and find a way to use AI to meet them, TDE will be able to proactively offer solutions, potentially earning them new clients or additional assignments.
 1, 2, 3
 ### Methods
-_Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs.  
+**Brainstorm:**  
+**Interviews:** RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs.  
 There are also client leads at TDE who are aware of the needs of not only RacingNews365 but also other clients, who I could discuss implementation with.  
+**Stakeholder analysis:**  
 
 ### Conclusions
 
@@ -37,6 +40,8 @@ There are also client leads at TDE who are aware of the needs of not only Racing
 The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.
 3
 ### Methods
+**Survey:**  
+**Expert interview:**
 
 ### Conclusions
 
@@ -44,6 +49,9 @@ The nice thing about a company that focuses on sports is that the end users tend
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
 2, 3
 ### Methods
+**Literature research:**  
+**Ethical check:**  
+**Survey:**  
 
 ### Conclusions
 
