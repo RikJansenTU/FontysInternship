@@ -98,7 +98,10 @@ https://github.com/huggingface/diffusers/blob/main/examples/textual_inversion/te
 
 ### Styles
 https://civitai.com/   
-Marc Allante
-Valorant
-Midjourney
-Arcane
+Marc Allante  
+Valorant  
+Midjourney  
+Arcane  
+Mix with academicism  
+avant-garde  
+classicism
