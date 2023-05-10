@@ -46,15 +46,6 @@ All that remained was to combine the audio and video generation, and make sure e
 ![MJ Talking.gif](Images/MJ_Talking.gif)  
 _Video generated using the final product_
 
-## Research Methods and Results
-**Research Methods**  
-Deliverables: The technologies I chose to use are detailed above, and the code making use of them can be found [here](https://github.com/RikJansenTU/SportIcons)  
-Deliverables:   
-Deliverables: I wrote a [short report](Ethical_Considerations.md) on the ethical issues I see arising from applications like this one, as well as some reccommendations to safeguard against abuse.  
-
-**Other Deliverables**  
-Frontend designs
-
 ## Reflection  
 The development of this project was quite different from that of the the previous one: it didn't present as much of a technical challenge because I was making use of APIs, so the focus was more on combining existing tools into something new, and creating an app that was easy to use and corresponded to TDE's brief. To achieve this, I gathered much more feedback, showing my progress several times a week, and discussing the direction I was going and what could be improved.
 
@@ -64,3 +55,9 @@ The more detailed planning I made also helped me stay organized and on track, an
 For my next project I might use something like a Kanban board, to still be able to efficiently manage my tasks, but be a bit more flexible overall.
 
 While I'm quite happy with my end result, I unfortunately didn't have much as much time as I would have liked to work on the frontend, for example giving the tool TDE colors and branding. I have scheduled some dedicated time to work on the frontend of all my finished applications towards the end of the internship, because I do think the way they look is important in their function as an AI showcase for TDE.
+
+## Deliverables
+Deliverables: The technologies I chose to use are detailed above, and the code making use of them can be found [here](https://github.com/RikJansenTU/SportIcons)  
+usable app  
+Deliverables: I wrote a [short report](Ethical_Considerations.md) on the ethical issues I see arising from applications like this one, as well as some reccommendations to safeguard against abuse.    
+Frontend designs  
