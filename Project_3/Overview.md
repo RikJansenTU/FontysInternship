@@ -2,6 +2,7 @@
 An application that allows users to visualise themselves in the shoes of their favorite athletes using AI generated imagery. They can upload a few photos of themselves, which will be used to finetune an AI model so it can accurately replicate their face and place it in fictional sports-related scenes, creating something completely unique and personalized.
 
 ## Research Questions
+The following are the research questions I tried to answer with this project. The methods used, as well as the conclusions, can be found in the [Research Report](Research_Report).
 - **How can I use generative AI to increase fan engagement?**  
 This project is probably the one that most directly adresses this question, considering it's meant to be used by fans directly. I want to make use of that opportunity to do some user research, investigating how I can best engage people, and create something they're excited to use.  
 - **What different types of generative AI exist, and how can they be used in innovative new ways?**  
@@ -30,28 +31,17 @@ Lastly, the more complex the desired end result is, the more can go wrong. To he
 
 ### Development
 
-## Research Results and Deliverables
-**Research Questions**  
-- **How can I use generative AI to increase fan engagement?**  
-
-- **What different types of generative AI exist, and how can they be used in innovative new ways?**  
-Methods:  
+## Deliverables
 Deliverable: Research report on AI finetuning  
-- **What are the needs of TDE's various customers, and how can I fulfill those?**  
-Methods:  
 Deliverable: short examination of potential clients  
-- **Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?**  
-Methods:  
-Deliverable: results of user testing  
-- **What ethical considerations have to be taken into account when working with generative AI?**  
-Methods:  
+Deliverable: results of user testing   
 Deliverable:  ethics and privacy report  
 
 **Other Deliverables**  
 Code  
 Frontend design  
 
-## Reflection
+## Reflection & Future Steps
 
  VAE for improvements
   
