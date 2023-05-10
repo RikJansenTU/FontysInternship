@@ -48,16 +48,8 @@ _Video generated using the final product_
 
 ## Research Methods and Results
 **Research Methods**  
-- **How can I use generative AI to increase fan engagement?**  
-
-- **What different types of generative AI exist, and how can they be used in innovative new ways?**  
-Methods:  
 Deliverables: The technologies I chose to use are detailed above, and the code making use of them can be found [here](https://github.com/RikJansenTU/SportIcons)  
-- **What are the needs of TDE's various customers, and how can I fulfill those?**  
-Methods:  
 Deliverables:   
-- **What ethical considerations have to be taken into account when working with generative AI?**  
-Methods:  
 Deliverables: I wrote a [short report](Ethical_Considerations.md) on the ethical issues I see arising from applications like this one, as well as some reccommendations to safeguard against abuse.  
 
 **Other Deliverables**  
