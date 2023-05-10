@@ -6,17 +6,20 @@ Updated 19-4-23
 ![TDE Logo](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
 # Table of Contents
-- [The Internship](#the-internship)
+- [The Internship](#assignment-overview)
 - [Progress and Results - Overview](#progress-and-results---overview)
   * [First Weeks](#first-weeks)
   * [Project 1 - Podcast Summarizer](#project-1---podcast-summarizer)   
   * [Project 2 - Sport Icons](#project-2---sport-icons)
+  * [Project 3 - In the Shoes](#project-3---in-the-shoes)
 - [Final](#final)
 - [Learning Outcomes](#learning-outcomes)
 
-## The Internship
+## Assignment Overview
 AI is playing an increasingly large role in society. New tools are rapidly being released to the public, quickly becoming more capable and sophisticated. Generative AI tools are now capable of creating art and music, writing code, function as personal assistants, or even build entire websites from scratch. For many industries, the technology is set to fundementally shake up the way things are done, for better or worse.  
 Sooner or later, most companies will come into contact with generative AI, so investigating the potential applications and dangers early on can be a great boon in the long term. A company who makes full use of AI powered tools might in the near future be able to create high-quality products with lower costs and fewer staff, outperforming competitors, or offer products to customers that are completely unique.
+
+This portfolio details my internship at TDE investigating the applications of generative AI. TDE is a digital creative agency operating in sports, which prides itself in always standing at the forefront of technological innovations.
 
 **The Opportunity**  
 Like I said above, generative AI has massive potential, and TDE is very interested in exploring the opportunities it offers. The company prides itself on being at the forefront of new technological advances, being able to offer their customers things that other marketing agencies can't. They [have worked with generative AI before](https://www.tde.nl/cases/the-masterpiece/), and see a lot of potential in its further use.  
@@ -28,10 +31,10 @@ At the end of my internship, I will have showcased different applications of gen
 
 **Approach**    
 To be able to investigate as many different AI-related subjects as possible I decided, along with my mentor at TDE, to split the internship into three different projects. This way, I can explore a few different themes, applications, and types of technology so I get a good general impression of the state of generative AI and how it can be used to serve TDE.  
-Another advantage of setting up the internship this way is that it offers a certain amount of flexibility. Developments in the field of AI are incredibly rapid, which means it's very much possible that some new and groundbreaking piece of technology gets released halfway through the internship. Having a few different projects planned, the details of the later ones not yet set in stone, allows me a certain degree of flexibility to potentially make use of new AI developments.
+Another advantage of setting up the internship this way is that it offers a certain amount of flexibility. Developments in the field of AI are incredibly rapid, which means it's very much possible that some new and groundbreaking piece of technology gets released halfway through the internship. Having a few different projects planned, with the details of the later ones not yet set in stone, allows me a certain degree of flexibility to potentially make use of new AI developments.
 
 **Research Questions**  
-The following are the most important questions I want to answer over the course of the internship. The individual projects might have other, more specific, research questions attached; those will be listed in their respective chapters.  
+The following are the most important questions I wanted to answer over the course of the internship. Every project allowed me to consider a few (but not necessarily all) of these, with some overlap. This way I could investigate every question from a few different angles, hopefully gaining more comprehensive insights. All of the details on my research, the methods used, and my conclusions, can be found in [this report]()
 - _How can I use generative AI to increase fan engagement?_  
 This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
 - _What different types of generative AI exist, and how can they be used in innovative new ways?_  
@@ -64,7 +67,7 @@ More info on this project can be found [here](Project_2/Overview.md).
 
 The repository with the code for the application can be found [here](https://github.com/RikJansenTU/SportIcons).
 
-### Project 3 - In The Shoes Of...
+### Project 3 - In the Shoes
 For my final project I wanted to create something that fans interacted with in a more direct manner. I decided to create a tool that would allow people to generate sports-related action shots of themselves, for example playing football for their favorite team. The goal was to allow users to upload pictures of themselves and use those to finetune an image generation AI, so it could create realistic depictions of them.
 
 More info on this project can be found [here](Project_3/Overview.md).
