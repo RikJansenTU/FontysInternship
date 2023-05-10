@@ -43,11 +43,10 @@ In the weeks after I made the tool, it has seen some unexpected internal use wit
 _First part of a summary of a Formula 1 podcast_
 
 ## Deliverables
-_Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.  
-There are also client leads at TDE who are aware of the needs of not only RacingNews365 but also other clients, who I could discuss implementation with.  
-- **What different types of generative AI exist, and how can they be used in innovative new ways?**  
-_Available product analysis / community research:_ A lot of research has already been done into this aspect of AI, so I'll have many tools I can use and build upon, many of which are open source. I had to determine which existing tools best suited my needs and how they could be implemented.  
-_Prototyping:_ I set up a series of simple prototypes that I could use to test different models and compare them. The resulting Jupyter Notebooks can be found [here](https://github.com/RikJansenTU/PodcastSummarizer), and the results of the tests as well as the available product research can be found in this [research report](/Project_1/AI_Model_Research.md).
+code  
+frontend design  
+requirements  
+ai model research  
 
 ## Reflection and Feedback
 Overall, setting up and making use of the AI models proved easier than expected, which allowed me to get going with prototyping and experimentation quite quickly. 
