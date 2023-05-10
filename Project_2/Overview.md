@@ -2,6 +2,7 @@
 TDE will be hosting a Web3 showcase, where they are inviting several high-profile executives in the sports industry to present the opportunities that several new technologies offer. As a part of this conference, they would like to show off something impressive created by generative AI. In keeping with TDE's sports focus, I made a tool that generates video and audio of a famous athlete based on text input, for example allowing you to generate a video of Michael jordan welcoming guests to the conference.
 
 ## Research Questions
+The following are the research questions I tried to answer with this project. The methods used, as well as the conclusions, can be found in the [research report](/Research_Report.md).
 - **How can I use generative AI to increase fan engagement?**  
 'Fan' is a bit of a narrower term in this context, not meaning a large group of supporters but a smaller group I'm trying to reach in a very personal manner - the potential clients in this case. The freedom that generative AI offers when it comes to its output allows you to create something impressive that's tailored to potentially a single person, which is what my tool is attempting to accomodate. Investigating what impact AI can have when used this way is an interesting angle from which to approach this research question.  
 - **What different types of generative AI exist, and how can they be used in innovative new ways?**  
