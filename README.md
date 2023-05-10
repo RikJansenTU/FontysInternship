@@ -34,7 +34,7 @@ To be able to investigate as many different AI-related subjects as possible I de
 Another advantage of setting up the internship this way is that it offers a certain amount of flexibility. Developments in the field of AI are incredibly rapid, which means it's very much possible that some new and groundbreaking piece of technology gets released halfway through the internship. Having a few different projects planned, with the details of the later ones not yet set in stone, allows me a certain degree of flexibility to potentially make use of new AI developments.
 
 **Research Questions**  
-The following are the most important questions I wanted to answer over the course of the internship. Every project allowed me to consider a few (but not necessarily all) of these, with some overlap. This way I could investigate every question from a few different angles, hopefully gaining more comprehensive insights. All of the details on my research, the methods used, and my conclusions, can be found in [this report]()
+The following are the most important questions I wanted to answer over the course of the internship. Every project allowed me to consider a few (but not necessarily all) of these, with some overlap. This way I could investigate every question from a few different angles, hopefully gaining more comprehensive insights. All of the details on my research, the methods used, and my conclusions, can be found in [this report](Research-Report)
 - _How can I use generative AI to increase fan engagement?_  
 This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
 - _What different types of generative AI exist, and how can they be used in innovative new ways?_  
@@ -47,10 +47,7 @@ The nice thing about a company that focuses on sports is that the end users tend
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
 
 
-## Progress and Results - Overview
-### First Weeks
-The first two weeks were spent getting to know the company, and getting to grips with my assignment. I tried to get a good idea of the current state of AI, and what its possibilities were. Based on this research, I outlined several concepts and themes I was interested in exploring, and together with my TDE coordinator we picked a few that we were most interested in. None of these were fixed, leaving the option for new ideas open.
-
+## Project Overview
 ### Project 1 - Podcast Summarizer
 I made an application that automatically transcribes and summarizes podcasts. It's intended to be used by the journalists of RacingNews365, a Formula 1 news site, who get a lot of their news from podcasts. This tool could save them a lot of time, by extracting just the most pertinent info, and indicating whether or not the podcast is worth listening to. Me and my TDE coordinator decided on this project as a good introduction to using generative AI models, as audio and text is a relatively simple subject within the field.
 
@@ -72,8 +69,8 @@ For my final project I wanted to create something that fans interacted with in a
 
 More info on this project can be found [here](Project_3/Overview.md).
 
-## Research Questions  
-Conclusions (TODO)  
+## Research Conclusions  
+All information about my research can be found [here](Research_Report)
 
 ## Final
 Presentation at TDE about AI etc
