@@ -2,7 +2,7 @@
 An application that automatically transcribes and summarizes a podcast, intended for use by journalists who get a significant portion of their news from those podcasts - specifically intended for RacingNews365, the largest Formula 1 news site in the Netherlands.
 
 ## Research Questions
-Below are the research questions I adressed specifically with this project.  
+The following are the research questions I tried to answer with this project. The methods used, as well as the conclusions, can be found in the [research report](/Research_Report.md).
 - **How can I use generative AI to increase fan engagement?**  
 While this tool isn't meant to be used by fans directly, it does benefit them in indirect ways. Using the summarizer, journalists can publish news faster, which means fans will be aware of what's happening sooner. Hopefully, the tool can also free up some of the journalists' time, allowing them to focus on creating more or higher quality content, improving the experience of fans using the site.  
 - **What are the needs of TDE's various customers, and how can I fulfill those?**  
@@ -42,11 +42,7 @@ In the weeks after I made the tool, it has seen some unexpected internal use wit
 ![Summary](Images/Screenshot2.png)  
 _First part of a summary of a Formula 1 podcast_
 
-## Research Methods and Results
-**Research Methods**  
-- **How can I use generative AI to increase fan engagement?**  
-
-- **What are the needs of TDE's various customers, and how can I fulfill those?**  
+## Deliverables
 _Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.  
 There are also client leads at TDE who are aware of the needs of not only RacingNews365 but also other clients, who I could discuss implementation with.  
 - **What different types of generative AI exist, and how can they be used in innovative new ways?**  
