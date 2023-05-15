@@ -45,6 +45,7 @@ If TDE becomes an early adopter of the technology, they might be able to rival m
 
 ## Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?
 The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.  
+
 ### Methods
 **Survey:** The third project was the only one that was aimed at sports fans directly, so I wanted to take the opportunity to do some user research, using surveys to gauge people's opinion on both that project directly and on AI in general.  
 **Expert interviews:** The client leads at TDE have a lot more experience trying to appeal to sports fans, so I discussed my project with them, gathering their opinions on what would appeal and what wouldn't.
@@ -64,6 +65,7 @@ All the user research I did is collected and discussed in [this report]().
 
 ## What ethical considerations have to be taken into account when working with generative AI?
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
+
 ### Methods
 **Literature study:**  
 I read up on the current ethical discourse surrounding AI, for example by investigating the safety measures that AI companies have set up. I also tried to get acquainted with related subjects like copyright and portrait rights.
@@ -73,6 +75,13 @@ Unfortunately, the marketing industry isn't exactly renowned for its ethical bou
 When I surveyed potential users for the third project I also asked them questions about AI in general, giving them hypothetical scenarios and asking them to rate those based on whether or not they believed them to cross ethical boundaries.
 
 ### Conclusions
+Generative AI is exciting technology, which can empower and assist people when used right, but can be abused very easily. It's important for a company to consider the potential impact of tools they create, but additionally I believe that governments need to step in and rein in the technology and its usage.  
+I think the two most dangerous aspects of AI are currently misinformation and replacing jobs. It'll become incredibly easy to create convincing video of anyone saying anything, which can erode trust and polarise people. Also, generative AI especially is set to replace a lot of jobs, and while new jobs might be created there will be a lot of people unable or unwilling to make the switch. Most importantly, even when an AI tool you create isn't intended to do anything harmful, it might still be used that way, so a large part of the responsibility lies with the tool's developer.  
+In general, people also seem to be becoming more aware, and wary, of the impact AI will have on society. Keeping their reservations in mind and involving not just end users, but a larger more representative group will be key in ensuring nobody gets impacted negatively by something you develop.
 
-A more thorough examination of the ethics surrounding project 2, as well as a set of ethical guidelines I set up based on my research, can be found [here]().
+A more thorough examination of the ethics surrounding project 2, as well as a set of ethical guidelines I set up based on my research, can be found [here]().  
+The results of my user research are collected and discussed [here]().
+
+
+### Sources
 
