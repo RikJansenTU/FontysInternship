@@ -2,8 +2,8 @@
 This report collects the research I've done across all my projects to answer the research questions, as well as my overall conclusions.
 
 ## How can I use generative AI to increase fan engagement?
-This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.  
-1, 2, 3
+This is the main research question I want to answer during my internship. Fan engagement is a broad concept in this context - it doesn't mean that everything I build will need to be used by sports fans directly, but it should serve them or improve their experience when interacting with TDE's products, which in turn will increase engagement.
+
 ### Methods
 As this is my main research question, I didn't do any research into this subject directly. Instead, I formulated the other questions to cover different aspects of this one, coming to a general conclusion in the end.
 
@@ -11,6 +11,7 @@ As this is my main research question, I didn't do any research into this subject
 
 ## What different types of generative AI exist, and how can they be used in innovative new ways?
 Exploring the types of AI available, as well as their uses, will play an important part in achieving the internship's goals.
+
 ### Methods
 **Available product analysis / community research:** Over the last years the number of freely available AI tools has exploded, so I'll have many I can use and build upon. I had to investigate if there were existing tools that suited my needs and how they could be implemented. Also, being aware of the available tools ensured I wasn't creating anything that already existed, and allowed me to identify areas where innovation was still possible.  
 **Literature study:** If no ready-to-use tools were available, I had to figure out how to implement and apply generative AI models myself, which required research into how these models work.  
@@ -28,28 +29,35 @@ Some samples from my experimentation with prompt building for the project can be
 
 ## What are the needs of TDE's various customers, and how can I fulfill those?
 If I can anticipate these customers' needs, and find a way to use AI to meet them, TDE will be able to proactively offer solutions, potentially earning them new clients or additional assignments.
-1, 2, 3
+
 ### Methods
 **Brainstorm:**  
 I planned a brainstorm session with a few of my colleagues at TDE for every project, both so they could help come up with ideas for implementation and features, and so they could help theorise what the best use of the finished product was. Especially for project 3, which wasn't started with a specific client in mind, we spent some time discussing which client could best benefit from the tool, and how I could potentially play into their hand.
 **Interviews:** RacingNews365's office is located on the same floor as TDE, so they were easy to communicate with. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs.  
 I also discussed TDE's different clients with the client leads, to get a better idea of the type of customer the company tries to appeal to.
 **Stakeholder analysis:**  
+The stakeholder I was most involved with was TDE themselves (specifically the client leads), with me creating AI tools that would showcase the technology's potential. I also tried to investigate TDE's clients, to figure out what their potential response to AI would be and how willing they would be to make use of it.
 
 ### Conclusions
-AI currently most useful as a tool to speed up a process (also maybe the best way ethically)
-Hard to offer something to fans directly - especially since people are quickly getting used to new AI tech (see quick adoption of ChatGPT) 
-Often still too roughj
+I think AI currently best suited as a tool to speed up a process, for example by answering questions or writing a draft for a press statement. It isn't quite at a level where it can create something without human supervision, which means it's difficult to present a polished tool that delivers consistent results on its own.  
+AI as a productivity tool has a lot of potential (as well as this being one of its most ethically justifiable uses, more on that below), but these types of tools are not really something TDE specializes in, and are difficult to present to clients.
+Many of these client are also hesitant to make use of new technology and embrace unfamiliar strategies, which makes pitching something using AI difficult. All this means that creating tools for clients' use is rarely a worthwile effort; most are unlikely to be willing to pay for development.  
+Instead, I think most potential for AI-powered tools is in internal use. TDE is in charge of quite a few advertising campaigns, and using AI for those is a great way of grabbing attention and getting people talking. There is also a lot of opportunity in using AI powered tools internally to improve productivity, for example by using ChatGPT-generated code or for generating first drafts of images. 
+If TDE becomes an early adopter of the technology, they might be able to rival much larger companies even with their small team, and offer their clients more impressive results for smaller costs.
 
 ## Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?
 The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.  
-3
 ### Methods
 **Survey:**  
+User survey
 **Expert interview:**  
 Spoke with client leads, AI can still be received negatively (Vingergaart)
 
 ### Conclusions
+Hard to offer something to fans directly - especially since people are quickly getting used to new AI tech (see quick adoption of ChatGPT) 
+Often still too rough
+
+All the user research I did is collected and discussed in [this report](). 
 
 ## What ethical considerations have to be taken into account when working with generative AI?
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
@@ -61,4 +69,5 @@ AI will very likely have a massive impact on our society, enabling us to do and 
 
 ### Conclusions
 
+A more thorough examination of the ethics surrounding project 2 can be found [here]().
 
