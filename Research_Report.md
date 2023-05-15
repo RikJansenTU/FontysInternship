@@ -84,4 +84,7 @@ The results of my user research are collected and discussed [here]().
 
 
 ### Sources
+https://adversa.ai/blog/universal-llm-jailbreak-chatgpt-gpt-4-bard-bing-anthropic-and-beyond/  
+https://www.aiaaic.org/aiaaic-repository/about-the-aiaaic-repository  
+https://www.nu.nl/media/6260527/hoofdredacteur-duits-tijdschrift-ontslagen-na-nepinterview-michael-schumacher.html  
 
