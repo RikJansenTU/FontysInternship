@@ -49,13 +49,20 @@ If TDE becomes an early adopter of the technology, they might be able to rival m
 The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.  
 ### Methods
 **Survey:**  
-User survey
-**Expert interview:**  
-Spoke with client leads, AI can still be received negatively (Vingergaart)
+The third project was the only one that was aimed at sports fans directly, so I wanted to take the opportunity to do some user research, using surveys to gauge people's opinion on both that project directly and on AI in general.
+**Expert interviews:**  
+The client leads at TDE have a lot more experience trying to appeal to sports fans, so I discussed my project with them, gathering their opinions on what would appeal and what wouldn't.
 
 ### Conclusions
-Hard to offer something to fans directly - especially since people are quickly getting used to new AI tech (see quick adoption of ChatGPT) 
-Often still too rough
+Creating something that will be used by fans directly is difficult for a number of reasons. First, it means a tool needs to be much more polished, especially when it comes to something that is supposed to be a showcase for your company. This requires a proper frontend and good UX design, but most crucially you want the results to be good.
+The latter is still very difficult, especially when it comes to text-to-image applications; while the current generation of generative AI models is incredibly impressive, consistency of results is still a challenge. Anatomy gets messed up, backgrounds become surreal, and faces get deformed; a bad result can reflect badly on TDE.
+A tool for use by the public would either need to be very polished (which likely means limited) or users' expectations would need to be managed. Alternatively, using AI to create something the company normally wouldn't, handpicking the best results, and releasing those to  the public removes a lot of the uncertainty from the equation.
+
+The public awareness of AI is also quickly growing, and with that the subject is becoming more divisive. While a lot of people are excited about the possibilities, the amount of people who are worried about AI's rapid advance (even including software scientists involved in the field) is also growing. This can result in a negative reception to campaigns using AI, even when they're meant to be light-hearted.
+For example, TDE recently released a small [AI-generated video of Jonas Vingegaard as a child](https://twitter.com/JumboVismaRoad/status/1648242844946006016), which was received quite negatively.  
+Anticipating fans' reactions is difficult, especially with how volatile the discourse around AI is. Keeping a finger on the public's pulse and looking at potential reception on a case-by-case base is going to be essential to avoid bad press.
+
+Lastly, it's also important to consider how quickly people get used to new technology. ChatGPT has quickly gone from curiosity to the largest-growing application of all time in terms of users, and even those who have nothing to do with AI seem to hardly be surprised at its capabilities anymore. In order to offer fans something unique, TDE will either have to be one of the first to offer them something, which is incredibly difficult without dedicated AI specialist, or try to be the first to find a unique or eye-catching application of existing AI technology.
 
 All the user research I did is collected and discussed in [this report](). 
 
