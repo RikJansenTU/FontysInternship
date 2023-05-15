@@ -31,12 +31,10 @@ Some samples from my experimentation with prompt building for the project can be
 If I can anticipate these customers' needs, and find a way to use AI to meet them, TDE will be able to proactively offer solutions, potentially earning them new clients or additional assignments.
 
 ### Methods
-**Brainstorm:**  
-I planned a brainstorm session with a few of my colleagues at TDE for every project, both so they could help come up with ideas for implementation and features, and so they could help theorise what the best use of the finished product was. Especially for project 3, which wasn't started with a specific client in mind, we spent some time discussing which client could best benefit from the tool, and how I could potentially play into their hand.
+**Brainstorm:**  I planned a brainstorm session with a few of my colleagues at TDE for every project, both so they could help come up with ideas for implementation and features, and so they could help theorise what the best use of the finished product was. Especially for project 3, which wasn't started with a specific client in mind, we spent some time discussing which client could best benefit from the tool, and how I could potentially play into their hand.  
 **Interviews:** RacingNews365's office is located on the same floor as TDE, so they were easy to communicate with. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs.  
 I also discussed TDE's different clients with the client leads, to get a better idea of the type of customer the company tries to appeal to.
-**Stakeholder analysis:**  
-The stakeholder I was most involved with was TDE themselves (specifically the client leads), with me creating AI tools that would showcase the technology's potential. I also tried to investigate TDE's clients, to figure out what their potential response to AI would be and how willing they would be to make use of it.
+**Stakeholder analysis:**  The stakeholder I was most involved with was TDE themselves (specifically the client leads), with me creating AI tools that would showcase the technology's potential. I also tried to investigate TDE's clients, to figure out what their potential response to AI would be and how willing they would be to make use of it.
 
 ### Conclusions
 I think AI currently best suited as a tool to speed up a process, for example by answering questions or writing a draft for a press statement. It isn't quite at a level where it can create something without human supervision, which means it's difficult to present a polished tool that delivers consistent results on its own.  
@@ -48,10 +46,8 @@ If TDE becomes an early adopter of the technology, they might be able to rival m
 ## Where does the passion of the sports fans that consume TDE's products lie, and how can I use AI to respond to those passions in a positive way?
 The nice thing about a company that focuses on sports is that the end users tend to be very passionate about their engagement. This offers a unique opportunity to create something positive that these fans truly enjoy interacting with.  
 ### Methods
-**Survey:**  
-The third project was the only one that was aimed at sports fans directly, so I wanted to take the opportunity to do some user research, using surveys to gauge people's opinion on both that project directly and on AI in general.
-**Expert interviews:**  
-The client leads at TDE have a lot more experience trying to appeal to sports fans, so I discussed my project with them, gathering their opinions on what would appeal and what wouldn't.
+**Survey:** The third project was the only one that was aimed at sports fans directly, so I wanted to take the opportunity to do some user research, using surveys to gauge people's opinion on both that project directly and on AI in general.  
+**Expert interviews:** The client leads at TDE have a lot more experience trying to appeal to sports fans, so I discussed my project with them, gathering their opinions on what would appeal and what wouldn't.
 
 ### Conclusions
 Creating something that will be used by fans directly is difficult for a number of reasons. First, it means a tool needs to be much more polished, especially when it comes to something that is supposed to be a showcase for your company. This requires a proper frontend and good UX design, but most crucially you want the results to be good.
