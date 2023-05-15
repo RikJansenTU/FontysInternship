@@ -64,13 +64,15 @@ All the user research I did is collected and discussed in [this report]().
 
 ## What ethical considerations have to be taken into account when working with generative AI?
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
-2, 3
 ### Methods
-**Literature research:**  
+**Literature study:**  
+I read up on the current ethical discourse surrounding AI, for example by investigating the safety measures that AI companies have set up. I also tried to get acquainted with related subjects like copyright and portrait rights.
 **Ethical check:**  
+Unfortunately, the marketing industry isn't exactly renowned for its ethical boundaries, so I investigated the stance of lawmakers and experts (both in the fields of AI and philosphy) on current AI developments.
 **Survey:**  
+When I surveyed potential users for the third project I also asked them questions about AI in general, giving them hypothetical scenarios and asking them to rate those based on whether or not they believed them to cross ethical boundaries.
 
 ### Conclusions
 
-A more thorough examination of the ethics surrounding project 2 can be found [here]().
+A more thorough examination of the ethics surrounding project 2, as well as a set of ethical guidelines I set up based on my research, can be found [here]().
 
