@@ -6,11 +6,9 @@ The following are the research questions I tried to answer with this project. Th
 - **How can I use generative AI to increase fan engagement?**  
 While this tool isn't meant to be used by fans directly, it does benefit them in indirect ways. Using the summarizer, journalists can publish news faster, which means fans will be aware of what's happening sooner. Hopefully, the tool can also free up some of the journalists' time, allowing them to focus on creating more or higher quality content, improving the experience of fans using the site.  
 - **What are the needs of TDE's various customers, and how can I fulfill those?**  
-_Interviews:_ RacingNews365's office is located on the same floor as TDE, so I could easily communicate about their needs. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs. I also plan to deliver the finished application to them, so they get a chance to use it and give feedback.  
-There are also client leads at TDE who are aware of the needs of not only RacingNews365 but also other clients, who I could discuss implementation with.  
+This project was meant to be used directly by one of TDE's clients, so it was a good opportunity to investigate this question. Aside from RacingNews365, I also wanted to do some research into TDE's wider client base, and see if the tool I made could possibly be used by more of them.
 - **What different types of generative AI exist, and how can they be used in innovative new ways?**  
-_Available product analysis / community research:_ A lot of research has already been done into this aspect of AI, so I'll have many tools I can use and build upon, many of which are open source. I had to determine which existing tools best suited my needs and how they could be implemented.  
-_Prototyping:_ I set up a series of simple prototypes that I could use to test different models and compare them.
+This first project was meant to serve as a tool to help me make some first forays into AI technology, and into implementing AI models myself isntead of using tools. The relative simplicity of a text and audio application meant I could ease into the learning a bit more gently.
 
 ## Process Overview
 
