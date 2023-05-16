@@ -6,12 +6,12 @@ Updated 15-5-23
 ![TDE Logo](https://user-images.githubusercontent.com/9715331/227959790-36da5c78-9eb4-43f5-a701-cd1d910dd0ad.png)
 
 # Table of Contents
-- [The Internship](#assignment-overview)
-- [Progress and Results - Overview](#progress-and-results---overview)
-  * [First Weeks](#first-weeks)
+- [Assignment Overview](#assignment-overview)
+- [Project Overview](#project-overview)
   * [Project 1 - Podcast Summarizer](#project-1---podcast-summarizer)   
   * [Project 2 - Sport Icons](#project-2---sport-icons)
   * [Project 3 - In the Shoes](#project-3---in-the-shoes)
+- [Research Conclusions](#research-conclusions)
 - [Final](#final)
 - [Learning Outcomes](#learning-outcomes)
 
