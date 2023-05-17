@@ -37,18 +37,16 @@ Eventually I decided to forego this part of the app entirely: due to the feature
 
 The image generation part of the application was a lot more manageable to implement, considering it was fairly similar to the first project. I also did a lot of experimenting with the prompt used to generate the image, to try and get the most consistent results, comparisons of which can be seen [here]().
 
+## Results and Reflection
+While it's a shame that I couldn't implement the fine-tuning in the application, I'm still quite happy with the end result. I think the project was a great platform for (user) research, and a great culmination of everything I'd learned about AI in the internship.  
+
+In the end, the original idea proved to be a bit too ambitious for a few reasons. There was the technical complexity which I discussed earlier, but I also ran into limitations when it came to the AI models themselves. Unfortunately, text-to-image models aren't yet able to consistently generate complex images like an action shot from a football match, so the results aren't quite at a level of quality where I'd be willing to release the tool to the greater public. Pushing up to and investigating these limits was a great way to get a good idea of what the technology is capable of, and I think the current iteration of the application works very well as a showcase of what generative AI is currently capable of.
+
+If I had more time to work on it, there are quite a few improvements I still have in mind. One of those is getting the finetuning to work fully, but I also think there are some gains to be had with the image generation aspect. There are still a few tricks and techniques for improving results that I didn't get to try, for example 'locking' the AI into a good composition using seeds, generating using an existing image, or further finetuning the model.
+
 ## Deliverables
-Deliverable: Research report on AI finetuning  
-Deliverable: short examination of potential clients  
-Deliverable: results of user testing   
-Deliverable:  ethics and privacy report  
-
-**Other Deliverables**  
-Code  
-Frontend design  
-
-## Reflection & Future Steps
-
- VAE for improvements
-  
- Realistic Vision V2
+[Research report on AI finetuning]()  
+[Results and discussion of user testing]()   
+[Ethics and privacy report]()  
+[Repository for the application]()  
+[Frontend design]()  
