@@ -57,7 +57,7 @@ For my next project I might use something like a Kanban board, to still be able 
 While I'm quite happy with my end result, I unfortunately didn't have much as much time as I would have liked to work on the frontend, for example giving the tool TDE colors and branding. I have scheduled some dedicated time to work on the frontend of all my finished applications towards the end of the internship, because I do think the way they look is important in their function as an AI showcase for TDE.
 
 ## Deliverables
-Deliverables: The technologies I chose to use are detailed above, and the code making use of them can be found [here](https://github.com/RikJansenTU/SportIcons)  
-usable app  
-Deliverables: I wrote a [short report](Ethical_Considerations.md) on the ethical issues I see arising from applications like this one, as well as some reccommendations to safeguard against abuse.    
-Frontend designs  
+[The repository of this project](https://github.com/RikJansenTU/SportIcons)  
+[Link to a useable version of the app]()  
+[A short report on the ethical issues I see arising from applications like this one, as well as some reccommendations to safeguard against abuse](Ethical_Considerations.md)       
+[Frontend designs]()  
