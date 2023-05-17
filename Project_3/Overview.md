@@ -42,6 +42,8 @@ While it's a shame that I couldn't implement the fine-tuning in the application,
 
 In the end, the original idea proved to be a bit too ambitious for a few reasons. There was the technical complexity which I discussed earlier, but I also ran into limitations when it came to the AI models themselves. Unfortunately, text-to-image models aren't yet able to consistently generate complex images like an action shot from a football match, so the results aren't quite at a level of quality where I'd be willing to release the tool to the greater public. Pushing up to and investigating these limits was a great way to get a good idea of what the technology is capable of, and I think the current iteration of the application works very well as a showcase of what generative AI is currently capable of.
 
+Planning-wise, I think I was able to manage the project quite well. The Kanban board allowed me some flexibility, which came in very handy when it turned out the project's research phase was more complicated, and would thus take longer, than expected.
+
 If I had more time to work on it, there are quite a few improvements I still have in mind. One of those is getting the finetuning to work fully, but I also think there are some gains to be had with the image generation aspect. There are still a few tricks and techniques for improving results that I didn't get to try, for example 'locking' the AI into a good composition using seeds, generating using an existing image, or further finetuning the model.
 
 ## Deliverables
