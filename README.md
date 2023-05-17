@@ -78,23 +78,30 @@ Presentation at TDE about AI etc
 ## Learning Outcomes
 **Learning outcome 1: Professional Duties**
 > You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
-I made several applications, making use of object oriented programming languages and APIs, as well as implementing more complex technologies I had never worked with before, like custom AI models. Especially for project 3, I worked with (with mixed success) some pretty complex code, which was an interesting challenge.  
-Since the resulting applications were meant to either be showcases for TDE or to be used by their customers, I also tried to pay attention to the frontend, something I don't have extensive experience with. For this reason, I set aside some weeks at the end of the internship to learn CSS and create a clean and easy-to-use interface.
+
+I built several applications, making use of object oriented programming languages and APIs, as well as implementing more complex technologies I had never worked with before, like custom AI models. Especially for project 3, I implemented (with mixed success) some pretty complex code, which was an interesting challenge.  
+Since the resulting applications were meant to either be showcases for TDE or to be used by their customers, I also tried to pay attention to the frontend, something I don't have extensive experience with. For this reason, I set aside some weeks at the end of the internship to learn CSS and try to create slick and easy-to-use interfaces.
 
 **Learning outcome 2: Situation-orientation**
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
-I used my experience with object-oriented and backend programming to set up an application for each project, which will eventually be hosted on the TDE domain. These applications can then be used by TDE to showcase their ability to work with AI to (potential) customers, and demonstrate that they're able to operate at the cutting edge of technology, something they find very important as a company.
+The relevance of my work to TDE is twofold. First, the applications I built are meant to serve as a showcase for TDE, allowing them to demonstrate to potential clients that they're capable of operating with cutting-edge technology. 
+Second, based on the applications I built and the research I've done I can advice the company on the current state of AI, and where the possiblities lie for a team like TDE's.
 
-I worked on my projects the same way a developer at TDE would, for example participating in the daily standups and presenting my finished product to my colleagues. 
- Harder at first, then got more and more structured, picked some agile wauys of working that worked for me
-I interacted with different stakeholders, both within the company and outside of it, for different projects, pitching my ideas and getting their feedback at various stages.
- More details, client leads vs clients
+In order to get an idea of what that team was like and how they functioned, I tried to work in a manner similar to TDE developers, for example by participating in the daily standups and presenting my finished product to my colleagues. 
+This was something I struggled with at first, both due to my tendency to focus too much on what I'm doing without involving others, and the relative unfamiliarity of my working environment. As my internship progressed, I think I got better at sharing my progress, which benefited the projects I created.  
+One of the most important steps I took later on was increased communication with client leads to discuss what the projects could potentially be, and the different ways they could be used to benefit TDE. I also tried to keep my colleagues informed of what I was doing.
+
+Through my communication with the client leads I didn't just get a better idea of what TDE was looking for, but also about the clients I was targeting with the applications I built, which allowed me to keep their needs in mind as well.
 
 **Learning outcome 3: Future-Oriented Organisation** 
 > You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
 
-I had final responsibility for my projects, which meant I was not only writing the code, but was also in charge of the ideation and planning. Especially the latter is something I have always struggled with, which meant the first project was pretty chaotic. For the second, I tried to do some more detailed planning, outlining what I wanted to do on a weekly basis. Doing this still isn't something I enjoy, and I doubt it ever will be, but it did give me a better grasp of my overall progress and kept me on track. 
+Through the aforementioned interaction with TDE's client leads I got a good overview of what the value of my different projects was to the company and its customers.
+I also tried to look at my work from different angles, especially an ethical one, which I find very important when it comes to AI. I did research into the ethical considerations each project necessitated, and set up a series of guidelines to be followed when creating an application that uses AI, all of which can be found [in this report]().
+
+When it came to planning, I had final responsibility for what I was creating, and was given a lot of freedom to organise the internship how I saw fit.
+Especially when it came to planning I struggled at first, with the first project becoming rather chaotic. Over the course of the internship, I worked out a way of planning that suited me, finding one that kept me on track without restricting me too much. 
 
 **Learning outcome 4: Investigative Problem Solving**
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
