@@ -78,15 +78,18 @@ Presentation at TDE about AI etc
 ## Learning Outcomes
 **Learning outcome 1: Professional Duties**
 > You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
-
-I made several applications, making use of object oriented programming languages and APIs, as well as implementing more complex technologies I had never worked with before, like custom AI models. Since the resulting applications were meant to either be showcases for TDE or to be used by their customers, I also paid more attention than I usually do to the frontend, trying to ensure the tools had a clean and easy-to-use interface.
+I made several applications, making use of object oriented programming languages and APIs, as well as implementing more complex technologies I had never worked with before, like custom AI models. Especially for project 3, I worked with (with mixed success) some pretty complex code, which was an interesting challenge.  
+Since the resulting applications were meant to either be showcases for TDE or to be used by their customers, I also tried to pay attention to the frontend, something I don't have extensive experience with. For this reason, I set aside some weeks at the end of the internship to learn CSS and create a clean and easy-to-use interface.
 
 **Learning outcome 2: Situation-orientation**
 > You apply your previously acquired knowledge and skills in an authentic context to deliver relevant results for the project and company.
 
 I used my experience with object-oriented and backend programming to set up an application for each project, which will eventually be hosted on the TDE domain. These applications can then be used by TDE to showcase their ability to work with AI to (potential) customers, and demonstrate that they're able to operate at the cutting edge of technology, something they find very important as a company.
 
-I worked on my projects the same way a developer at TDE would, for example participating in the daily standups and presenting my finished product to my colleagues. I interacted with different stakeholders, both within the company and outside of it, for different projects, pitching my ideas and getting their feedback at various stages.
+I worked on my projects the same way a developer at TDE would, for example participating in the daily standups and presenting my finished product to my colleagues. 
+ Harder at first, then got more and more structured, picked some agile wauys of working that worked for me
+I interacted with different stakeholders, both within the company and outside of it, for different projects, pitching my ideas and getting their feedback at various stages.
+ More details, client leads vs clients
 
 **Learning outcome 3: Future-Oriented Organisation** 
 > You explore the organisational context of your project, make business, sustainable and ethical considerations and manage all aspects of the execution of the project.
