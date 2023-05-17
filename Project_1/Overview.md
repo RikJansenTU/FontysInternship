@@ -40,16 +40,16 @@ In the weeks after I made the tool, it has seen some unexpected internal use wit
 ![Summary](Images/Screenshot2.png)  
 _First part of a summary of a Formula 1 podcast_
 
-## Deliverables
-code  
-frontend design  
-requirements  
-ai model research  
-
-## Reflection and Feedback
+## Results and Reflection
 Overall, setting up and making use of the AI models proved easier than expected, which allowed me to get going with prototyping and experimentation quite quickly. 
 
 One thing I want to improve during the next project is my planning. While I did outline what I wanted to work on at the start of the assignment, I didn't make a very extensive or detailed list. For the next project, I want to plan out my activities more precisely, documenting exactly how long I think each activity will take. This will also make it easier for my coordinators, at both Fontys and TDE, to see what I'm working on.
 
 Being more open about my work was a point of feedback I got from my TDE internship coordinator. When I get started on a project, I tend to dive in by myself, and I sometimes struggle letting other people know what I'm working on or asking for help. While I'm pretty happy with the technical end result of this first project, I think I can still take a lot of steps in how I act as part of TDE.
 I think this struggle with involving others is partially due to the different work environment, suddenly being part of a larger team but without explicitly working on the same things. Starting next project, I want to take a more proactive approach in gathering feedback, asking for help, and showing off my work, for example by planning meetings with other team members to discuss my progress.
+
+## Deliverables
+[Research report on transcription and summarization AI models](/Research_Report.md)  
+[Requirements](/Requirements.md)  
+[The repository with this project's code](https://github.com/RikJansenTU/PodcastSummarizer)  
+[Frontend designs]()  
