@@ -100,15 +100,17 @@ Through my communication with the client leads I didn't just get a better idea o
 Through the aforementioned interaction with TDE's client leads I got a good overview of what the value of my different projects was to the company and its customers.
 I also tried to look at my work from different angles, especially an ethical one, which I find very important when it comes to AI. I did research into the ethical considerations each project necessitated, and set up a series of guidelines to be followed when creating an application that uses AI, all of which can be found [in this report]().
 
-When it came to planning, I had final responsibility for what I was creating, and was given a lot of freedom to organise the internship how I saw fit.
-Especially when it came to planning I struggled at first, with the first project becoming rather chaotic. Over the course of the internship, I worked out a way of planning that suited me, finding one that kept me on track without restricting me too much. 
+When it came to planning, I had final responsibility for what I was creating, and was given a lot of freedom to organise the internship how I saw fit. Especially when it came to planning I struggled at first, with the first project becoming rather chaotic. Over the course of the internship, I worked out a way of planning that suited me, finding one that kept me on track without restricting me too much. 
 
 **Learning outcome 4: Investigative Problem Solving**
 > You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
 The nature of my assignment and the way it's been split up means I got the chance to approach the subject of generative AI from a few different angles, allowing me to investigate different opportunities for TDE. 
 
-Working within a field as young as this meant a lot of research was required, into technology, existing products, and potential applications. I did a lot of literature study, analyzed existing products, and made as many prototypes as I could to be able to explore the technology. Especially the prototypes proved useful, considering a lot of things turned out to be less, or more, complex than expected, and having a testing framework set up allowed me to quickly pivot. Based on my results, I could make informed decisions (alongside the stakeholders at TDE) about how my projects could best be executed.
+At the start of every project, I discussed what I was going to be creating with my company mentor, coming up with an idea partially based on the findings of my research for the previous project. After that, starting with project 2, I planned a brainstorming meeting with more client leads to discuss ideas and potential applications.
+
+All of the applications I created required a substantial amount of research, and based on the results I was able to make informed choices about the direction I would be taking with the implementation of each project, as well as allowing me to inform TDE. While I had initially planned to formulate seperate research questions for every project, I eventually pivoted and formulated a set of slightly more generic questions that I could investigate using multiple projects.
+This way, the internship was a more coherent whole, as well as giving me the opportunity to approach the same research question from multiple directions.
 
 **Learning outcome 5: Personal Leadership** 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
