@@ -30,6 +30,12 @@ I did do some seperate research into ways to ensure the results would be as good
 Lastly, the more complex the desired end result is, the more can go wrong. To help steer the results in the right direction, it can help to provide hand-picked 'seeds', which will affect the composition of the end result without locking down the details.
 
 ### Development
+I had originally intended to create an application that would allow a user to upload pictures of themselves in order to finetune the AI model, with them being able to generate pictures using that model afterwards, but this proved challenging. 
+First]y, the training takes a lot longer than I anticipated, especially on a consumer grade PC. This means that either the application would need to keep running for over 24 hours without interruption, or I would need to set up an expansive and seperate backend to do the training, save the results, and somehow notify the user once it's done.
+Also, the underlying code required to finetune models is very complex, and while I did get it working to a degree (the code can be found [here]()), the results weren't as good as I'd hoped.
+Eventually I decided to forego this part of the app entirely: due to the feature's complexity, getting it working and stable would take much more time than I had available. Instead, I used this project to investigate and showcase the potential of AI fine-tuning.
+
+The image generation part of the application was a lot more manageable to implement, considering it was fairly similar to the first project. I also did a lot of experimenting with the prompt used to generate the image, to try and get the most consistent results, comparisons of which can be seen [here]().
 
 ## Deliverables
 Deliverable: Research report on AI finetuning  
