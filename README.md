@@ -115,14 +115,13 @@ This way, the internship was a more coherent whole, as well as giving me the opp
 **Learning outcome 5: Personal Leadership** 
 > You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
-TDE gave me complete freedom to manage and execute my projects as I saw fit, which was both exciting and a bit daunting. I tried to make use of the opportunity to get creative with their execution, trying to come up with interesting or innovative ways to execute the assignments I got, as well as coming up with novel concepts for applications of AI of my own.
+TDE gave me complete freedom to manage and execute my projects as I saw fit, which was both exciting and a bit daunting. 
+While I did discuss all my ideas with my colleagues, I was the one who came up with the project concepts and worked out their exact implementation. I tried to use that opportunity to get creative, coming up with interesting and innovative ways to make use of generative AI, and create applications that noone had built before.
 
-I tend to focus a bit too much on the technological side of my learning, but while there were definitely interesting challenges to be found there, I quickly realised that there were much greater gains to be head when it came to my skills in organisation and communication. I think I especially struggled with these during the first project, but I tried to improve in both areas for later projecs. For communication, see the learning outcome below.
+I tend to focus a bit too much on the technological side of my learning, but while there were definitely interesting challenges to be found there, I quickly realised that there were much greater gains to be head when it came to my skills in organisation and communication. 
+This is also the biggest point of feedback I got after the first project finished, so I tried to pay more attention to these aspects during the later ones. As a result, I think my planning, general organisation, as well as communication with my mentor and the rest of the company, saw a lot of improvement.
 
-As for my organizational skills, I think there was a lot that could be gained from more meticulous planning and trying to organise the projects in a more structured manner, so I tried to focus on those for later projects, which is hopefully reflected in the project planning document.
-
-_Freedom to do what I want with the project
-Skills to be built up when it comes to communication (see below), planning, working as a part of a tean, tried to focus on that_
+One of the other personal goals I set for this internship was to get a better view of what direction I wanted to go as an IT professional, and I believe I made some progress in that regard; more details can be found in my [personal reflection](Personal_Reflection).
 
 **Learning outcome 6: Targeted Interaction**
 > You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
