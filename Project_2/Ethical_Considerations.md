@@ -28,11 +28,8 @@ There's a lot of elements of this issue that I haven't discussed, but that do wa
 I admit there's a certain conflict in me creating this tool, considering the ethical reservations I have with AI. I do however believe that one of the best way to investigate sociological and ethical impact of a certain technology is to get hands-on experience, seeing what tools are available and how their safety measures can be circuimvented. I've noticed that I'm very interested in examining these types of issues, and it's something I'd like to further explore in the future. AI will be a big theme in the coming years, and there's a lot that's still unclear about how its future will and should look; I'd like to play a part in figuring that out.
 
 ### Addendum: Project 3 Analysis
-Less potential for abuse
-Still don't know whose pictures are being uploaded
-  Check?
-Not as dangerous due to limited scope, cant generate everything you want
-Not good enough to fool people
-  Doesnt need to be perfect for that to happen (see pf)
+I believe project 3 has a bit less potential for abuse, firstly because the pictures being generated are in the hands of the person depicted in them, and secondly because the general quality and stylization of the end result is much harder to mistake for something real. 
+However, there is currently no way to check the identity of the person uploading the training images, and it's easy enough to grab pictures of someone else. Some kind of check, though difficult to implement, would make this aspect of the app safer.
+Also, while I don't believe the results are very realistic, they don't need to be 100% accurate to fool people; if you closely examine the picture of Pope Francis above, it's clearly AI generated, but it was still able to deceive others. Either adding some sort of watermark to the end result, or ensuring that its stylization is sufficiently advanced that it will never look photorealistic, are good ways of avoiding this.
   
 _Picture of Michael Jordan as a soccer player generated using the tool I built for project 3_
