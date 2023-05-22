@@ -79,7 +79,7 @@ Generative AI is exciting technology, which can empower and assist people when u
 I think the two most dangerous aspects of AI are currently misinformation and replacing jobs. It'll become incredibly easy to create convincing video of anyone saying anything, which can erode trust and polarise people. Also, generative AI especially is set to replace a lot of jobs, and while new jobs might be created there will be a lot of people unable or unwilling to make the switch. Most importantly, even when an AI tool you create isn't intended to do anything harmful, it might still be used that way, so a large part of the responsibility lies with the tool's developer.  
 In general, people also seem to be becoming more aware, and wary, of the impact AI will have on society. Keeping their reservations in mind and involving not just end users, but a larger more representative group will be key in ensuring nobody gets impacted negatively by something you develop.
 
-A more thorough examination of the ethics surrounding project 2, as well as a set of ethical guidelines I set up based on my research, can be found [here]().  
+A more thorough examination of the ethics surrounding project 2 and 3, as well as a set of ethical guidelines I set up based on my research, can be found [here]().  
 The results of my user research are collected and discussed [here]().
 
 
