@@ -29,7 +29,7 @@ I admit there's a certain conflict in me creating this tool, considering the eth
 
 ### Addendum: Project 3 Analysis
 I believe project 3 has a bit less potential for abuse, firstly because the pictures being generated are in the hands of the person depicted in them, and secondly because the general quality and stylization of the end result is much harder to mistake for something real. 
-However, there is currently no way to check the identity of the person uploading the training images, and it's easy enough to grab pictures of someone else. Some kind of check, though difficult to implement, would make this aspect of the app safer.
+However, there is currently no way to check the identity of the person uploading the training images, and it's easy enough to grab pictures of someone else. Some kind of check, though difficult to implement, would make this aspect of the app safer.  
 Also, while I don't believe the results are very realistic, they don't need to be 100% accurate to fool people; if you closely examine the picture of Pope Francis above, it's clearly AI generated, but it was still able to deceive others. Either adding some sort of watermark to the end result, or ensuring that its stylization is sufficiently advanced that it will never look photorealistic, are good ways of avoiding this.
   
 _Picture of Michael Jordan as a soccer player generated using the tool I built for project 3_
