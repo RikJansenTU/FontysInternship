@@ -70,7 +70,7 @@ For my final project I wanted to create something that fans interacted with in a
 More info on this project can be found [here](Project_3/Overview.md).
 
 ## Research Conclusions  
-All information about my research can be found [here](Research_Report).
+All information about my research can be found [here](Research_Report.md).
 
 ## Final
 Presentation at TDE about AI etc
