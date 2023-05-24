@@ -33,7 +33,7 @@ If I can anticipate these customers' needs, and find a way to use AI to meet the
 ### Methods
 **Brainstorm:**  I planned a brainstorm session with a few of my colleagues at TDE for every project, both so they could help come up with ideas for implementation and features, and so they could help theorise what the best use of the finished product was. Especially for project 3, which wasn't started with a specific client in mind, we spent some time discussing which client could best benefit from the tool, and how I could potentially play into their hand.  
 **Interviews:** RacingNews365's office is located on the same floor as TDE, so they were easy to communicate with. The initial [requirements](/Project_1/Requirements.md) were formulated based on a meeting where they indicated their needs.  
-I also discussed TDE's different clients with the client leads, to get a better idea of the type of customer the company tries to appeal to.
+I also discussed TDE's different clients with the client leads, to get a better idea of the type of customer the company tries to appeal to.  
 **Stakeholder analysis:**  The stakeholder I was most involved with was TDE themselves (specifically the client leads), with me creating AI tools that would showcase the technology's potential. I also tried to investigate TDE's clients, to figure out what their potential response to AI would be and how willing they would be to make use of it.
 
 ### Conclusions
@@ -67,12 +67,9 @@ All the user research I did is collected and discussed in [this report]().
 AI will very likely have a massive impact on our society, enabling us to do and create things unheard of a decade ago. Even more than with most new technology, it could be used to do a great amount of harm, for example with misinformation, spam, or by replacing jobs. I feel like any individual or company developing something with AI has a responsibility to consider how it could be abused.
 
 ### Methods
-**Literature study:**  
-I read up on the current ethical discourse surrounding AI, for example by investigating the safety measures that AI companies have set up. I also tried to get acquainted with related subjects like copyright and portrait rights.
-**Ethical check:**  
-Unfortunately, the marketing industry isn't exactly renowned for its ethical boundaries, so I investigated the stance of lawmakers and experts (both in the fields of AI and philosphy) on current AI developments.
-**Survey:**  
-When I surveyed potential users for the third project I also asked them questions about AI in general, giving them hypothetical scenarios and asking them to rate those based on whether or not they believed them to cross ethical boundaries.
+**Literature study:** I read up on the current ethical discourse surrounding AI, for example by investigating the safety measures that AI companies have set up. I also tried to get acquainted with related subjects like copyright and portrait rights.  
+**Ethical check:** Unfortunately, the marketing industry isn't exactly renowned for its ethical boundaries, so I investigated the stance of lawmakers and experts (both in the fields of AI and philosphy) on current AI developments.  
+**Survey:** When I surveyed potential users for the third project I also asked them questions about AI in general, giving them hypothetical scenarios and asking them to rate those based on whether or not they believed them to cross ethical boundaries.
 
 ### Conclusions
 Generative AI is exciting technology, which can empower and assist people when used right, but can be abused very easily. It's important for a company to consider the potential impact of tools they create, but additionally I believe that governments need to step in and rein in the technology and its usage.  
